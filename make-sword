@@ -1,0 +1,18 @@
+#!/bin/sh
+
+rm -rf sword
+mkdir -p sword/mods.d
+mkdir -p sword/modules/texts/ztext/idkjv
+
+cp -f idkjv.conf sword/mods.d/
+
+# only run in Linux only
+
+OUTPUTPATH="sword/modules/texts/ztext/idkjv/"
+
+#rm -f $OUTPUTPATH/*.*
+
+echo "40-MAT.xml"
+osis2mod $OUTPUTPATH 40-MAT.xml -z -b 4 -v KJV
+echo "41-MRK.xml"
+osis2mod $OUTPUTPATH 41-MRK.xml -a -z -b 4 -v KJV
