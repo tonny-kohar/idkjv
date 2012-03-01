@@ -16,3 +16,5 @@ echo "40-MAT.xml"
 osis2mod $OUTPUTPATH 40-MAT.xml -z -b 4 -v KJV
 echo "41-MRK.xml"
 osis2mod $OUTPUTPATH 41-MRK.xml -a -z -b 4 -v KJV
+echo "42-Luk.xml"
+osis2mod $OUTPUTPATH 42-LUK.xml -a -z -b 4 -v KJV
