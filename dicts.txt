@@ -26,6 +26,7 @@ but (G1161) = melainkan, tetapi
 but (235) = 
 but when = setelah, sesudah
 by (G3844) = dekat
+call (G2564) = menyebut, name (G3686) menamai
 centurion (G1543) = kepala pasukan (Romawi)
 chaff (G892) = sekam
 choked = tersedak
