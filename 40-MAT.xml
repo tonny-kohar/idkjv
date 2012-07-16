@@ -961,12 +961,12 @@
     src="13" lemma="strong:G1722" morph="robinson:PREP">di</w> <w
     src="14 15" lemma="strong:G3588 strong:G2048" morph="robinson:T-DSF robinson:A-DSF">padang gurun</w>, <w 
     src="16" lemma="strong:G2090" morph="robinson:V-AAM-2P">Persiapkanlah</w> <w 
-    src="17 18" lemma="strong:G3588 strong:G3598" morph="robinson:T-ASF robinson:N-ASF">jalan bagi</w> <w
-    src="19" lemma="strong:G2962" morph="robinson:N-GSM">Tuhan</w>, <w
+    src="17 18" lemma="strong:G3588 strong:G3598" morph="robinson:T-ASF robinson:N-ASF">jalan</w> <w
+    src="19" lemma="strong:G2962" morph="robinson:N-GSM">bagi Tuhan</w>, <w
     src="20" lemma="strong:G2117" morph="robinson:A-APF">luruskan</w><w
     src="21" lemma="strong:G4160" morph="robinson:V-PAM-2P">lah</w> <w 
-    src="22 23" lemma="strong:G3588 strong:G5147" morph="robinson:T-APF robinson:N-APF">jalan</w><w
-    src="24" lemma="strong:G846" morph="robinson:P-GSM">nya</w>.<verse eID="Matt.3.3"/>
+    src="22 23" lemma="strong:G3588 strong:G5147" morph="robinson:T-APF robinson:N-APF">jalan</w>-<w
+    src="24" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>.<verse eID="Matt.3.3"/>
 <verse sID="Matt.3.4" osisID="Matt.3.4"/><w
     src="1" lemma="strong:G846" morph="robinson:P-NSM"/><w
     src="2" lemma="strong:G1161" morph="robinson:CONJ"/><w 
@@ -1076,7 +1076,7 @@
     src="1" lemma="strong:G2235" morph="robinson:ADV">sekarang</w> <w
     src="3" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
     src="4 5" lemma="strong:G3588 strong:G513" morph="robinson:T-NSF robinson:N-NSF">kapak</w> <w
-    src="11" lemma="strong:G2749" morph="robinson:V-PNI-3S">telah diletakan</w> <w
+    src="11" lemma="strong:G2749" morph="robinson:V-PNI-3S">telah diletakkan</w> <w
     src="6" lemma="strong:G4314" morph="robinson:PREP">pada</w> <w 
     src="7 8" lemma="strong:G3588 strong:G4491" morph="robinson:T-ASF robinson:N-ASF">akar</w> <w 
     src="9 10" lemma="strong:G3588 strong:G1186" morph="robinson:T-GPN robinson:N-GPN">pohon-pohon</w>: <w
@@ -1111,7 +1111,7 @@
     src="15" lemma="strong:G3450" morph="robinson:P-1GS">aku</w>, <w
     src="17" lemma="strong:G3739" morph="robinson:R-GSM">yang</w> <w
     src="23" lemma="strong:G941" morph="robinson:V-AAN">membawa</w> <w 
-    src="21 22" lemma="strong:G3588 strong:G5266" morph="robinson:T-APN robinson:N-APN">sepatunya</w> <transChange
+    src="21 22" lemma="strong:G3588 strong:G5266" morph="robinson:T-APN robinson:N-APN">sepatu-Nya</w> <transChange
     type="added">saja</transChange> <w
     src="19" lemma="strong:G1510" morph="robinson:V-PXI-1S">aku</w> <w
     src="18" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w
@@ -9171,7 +9171,7 @@
 <verse sID="Matt.16.7" osisID="Matt.16.7"/><w 
     src="1" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
-    src="3" lemma="strong:G1260" morph="robinson:V-INI-3P">mereka membicarakan</w> <w 
+    src="3" lemma="strong:G1260" morph="robinson:V-INI-3P">mereka mempertanyakan</w> <w 
     src="4" lemma="strong:G1722" morph="robinson:PREP">di antara</w> <w 
     src="5" lemma="strong:G1438" morph="robinson:F-3DPM">mereka sendiri</w>, <w 
     src="6" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
@@ -9187,7 +9187,7 @@
     src="6" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w>, <q who="Jesus"><w 
     src="11" lemma="strong:G3640" morph="robinson:A-VPM">Hai kamu yang kurang percaya</w>, <w 
     src="7" lemma="strong:G5101" morph="robinson:I-ASN">mengapa</w> <w 
-    src="8" lemma="strong:G1260" morph="robinson:V-PNI-2P">kamu membicarakan</w> <w 
+    src="8" lemma="strong:G1260" morph="robinson:V-PNI-2P">kamu mempertanyakan</w> <w 
     src="9" lemma="strong:G1722" morph="robinson:PREP">di antara</w> <w 
     src="10" lemma="strong:G1438" morph="robinson:F-3DPM">kamu sendiri</w>, <w 
     src="12" lemma="strong:G3754" morph="robinson:CONJ">mengenai</w> <w 
@@ -12332,7 +12332,7 @@
     src="10" lemma="strong:G444" morph="robinson:N-GPM">manusia</w>?</q> <w 
     src="11" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
     src="12" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
-    src="13" lemma="strong:G1260" morph="robinson:V-INI-3P">mereka membicarakan</w> <w 
+    src="13" lemma="strong:G1260" morph="robinson:V-INI-3P">mereka mempertanyakan</w> <w 
     src="14" lemma="strong:G3844" morph="robinson:PREP">di antara</w> <w 
     src="15" lemma="strong:G1438" morph="robinson:F-3DPM">mereka sendiri</w>, <w 
     src="16" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
