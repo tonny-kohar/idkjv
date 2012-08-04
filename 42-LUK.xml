@@ -2417,24 +2417,296 @@ g20<?xml version="1.0" encoding="UTF-8"?>
     src="8 9" lemma="strong:G3588 strong:G2491" morph="robinson:T-ASM robinson:N-ASM">Yohanes</w> <w 
     src="10" lemma="strong:G1722" morph="robinson:PREP">ke dalam</w> <w 
     src="11 12" lemma="strong:G3588 strong:G5438" morph="robinson:T-DSF robinson:N-DSF">penjara</w>.<verse eID="Luke.3.20"/>
-<verse sID="Luke.3.21" osisID="Luke.3.21"/><verse eID="Luke.3.21"/>
-<verse sID="Luke.3.22" osisID="Luke.3.22"/><verse eID="Luke.3.22"/>
-<verse sID="Luke.3.23" osisID="Luke.3.23"/><verse eID="Luke.3.23"/>
-<verse sID="Luke.3.24" osisID="Luke.3.24"/><verse eID="Luke.3.24"/>
-<verse sID="Luke.3.25" osisID="Luke.3.25"/><verse eID="Luke.3.25"/>
-<verse sID="Luke.3.26" osisID="Luke.3.26"/><verse eID="Luke.3.26"/>
-<verse sID="Luke.3.27" osisID="Luke.3.27"/><verse eID="Luke.3.27"/>
-<verse sID="Luke.3.28" osisID="Luke.3.28"/><verse eID="Luke.3.28"/>
-<verse sID="Luke.3.29" osisID="Luke.3.29"/><verse eID="Luke.3.29"/>
-<verse sID="Luke.3.30" osisID="Luke.3.30"/><verse eID="Luke.3.30"/>
-<verse sID="Luke.3.31" osisID="Luke.3.31"/><verse eID="Luke.3.31"/>
-<verse sID="Luke.3.32" osisID="Luke.3.32"/><verse eID="Luke.3.32"/>
-<verse sID="Luke.3.33" osisID="Luke.3.33"/><verse eID="Luke.3.33"/>
-<verse sID="Luke.3.34" osisID="Luke.3.34"/><verse eID="Luke.3.34"/>
-<verse sID="Luke.3.35" osisID="Luke.3.35"/><verse eID="Luke.3.35"/>
-<verse sID="Luke.3.36" osisID="Luke.3.36"/><verse eID="Luke.3.36"/>
-<verse sID="Luke.3.37" osisID="Luke.3.37"/><verse eID="Luke.3.37"/>
-<verse sID="Luke.3.38" osisID="Luke.3.38"/><verse eID="Luke.3.38"/></p>
+<verse sID="Luke.3.21" osisID="Luke.3.21"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">ketika</w> <w 
+    src="6" lemma="strong:G537" morph="robinson:A-ASM">semua</w> <w 
+    src="7 8" lemma="strong:G3588 strong:G2992" morph="robinson:T-ASM robinson:N-ASM">orang banyak</w> <w 
+    src="4" lemma="strong:G3588" morph="robinson:T-DSM"/> <w 
+    src="5" lemma="strong:G907" morph="robinson:V-APN">telah dibaptis</w>, <w 
+    src="1" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadilah</w>, <w 
+    src="10" lemma="strong:G2424" morph="robinson:N-GSM">saat Yesus</w> <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="11" lemma="strong:G907" morph="robinson:V-APP-GSM">sedang dibaptis</w>, <w 
+    src="12" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="13" lemma="strong:G4336" morph="robinson:V-PNP-GSM">berdoa</w>, <w 
+    src="15 16" lemma="strong:G3588 strong:G3772" morph="robinson:T-ASM robinson:N-ASM">langit</w> <w 
+    src="14" lemma="strong:G455" morph="robinson:V-APN">terbuka</w>,<verse eID="Luke.3.21"/>
+<verse sID="Luke.3.22" osisID="Luke.3.22"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
+    src="2" lemma="strong:G2597" morph="robinson:V-2AAN">turunlah</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G4151" morph="robinson:T-NSN robinson:N-NSN">Roh</w> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-NSN"/> <w 
+    src="6" lemma="strong:G40" morph="robinson:A-NSN">Kudus</w> <w 
+    src="8" lemma="strong:G1491" morph="robinson:N-DSN">dalam rupa</w> <w 
+    src="7" lemma="strong:G4984" morph="robinson:A-DSN">jasmaniah</w> <w 
+    src="9" lemma="strong:G5616" morph="robinson:ADV">seperti</w> <w 
+    src="10" lemma="strong:G4058" morph="robinson:N-ASF">burung merpati</w> <w 
+    src="11" lemma="strong:G1909" morph="robinson:PREP">keatas</w>-<w 
+    src="12" lemma="strong:G846" morph="robinson:P-ASM">Nya</w>, <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="17" lemma="strong:G1096" morph="robinson:V-2ADN">datanglah</w> <w 
+    src="14" lemma="strong:G5456" morph="robinson:N-ASF">suara</w> <w 
+    src="15" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="16" lemma="strong:G3772" morph="robinson:N-GSM">langit</w>, <w 
+    src="18" lemma="strong:G3004" morph="robinson:V-PAP-ASF">yang berkata</w>, <w 
+    src="19" lemma="strong:G4771" morph="robinson:P-2NS">Engkau</w> <w 
+    src="20" lemma="strong:G1488" morph="robinson:V-PXI-2S">adalah</w> <w 
+    src="21 22" lemma="strong:G3588 strong:G5207" morph="robinson:T-NSM robinson:N-NSM">Anak</w>-<w 
+    src="23" lemma="strong:G3450" morph="robinson:P-1GS">Ku</w> <w 
+    src="24" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="25" lemma="strong:G27" morph="robinson:A-NSM">yang terkasih</w>; <w 
+    src="26" lemma="strong:G1722" morph="robinson:PREP">kepada</w>-<w 
+    src="27" lemma="strong:G4671" morph="robinson:P-2DS">Mulah</w> <w 
+    src="28" lemma="strong:G2106" morph="robinson:V-AAI-1S">Aku berkenan</w>.<verse eID="Luke.3.22"/>
+<verse sID="Luke.3.23" osisID="Luke.3.23"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
+    src="3" lemma="strong:G2258" morph="robinson:V-IXI-3S">adalah</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G2424" morph="robinson:T-NSM robinson:N-NSM">Yesus</w> <w 
+    src="6" lemma="strong:G5616" morph="robinson:ADV">kira-kira</w> <transChange 
+    type="added">berumur</transChange> <w 
+    src="8" lemma="strong:G5144" morph="robinson:A-NUI">tiga puluh</w> <w 
+    src="7" lemma="strong:G2094" morph="robinson:N-GPN">tahun</w> <w 
+    src="9" lemma="strong:G756" morph="robinson:V-PMP-NSM">memulai</w> <transChange 
+    type="added">pekerjaan-Nya</transChange>, <w 
+    src="10" lemma="strong:G5607" morph="robinson:V-PXP-NSM">adalah</w> (<w 
+    src="11" lemma="strong:G5613" morph="robinson:ADV">seperti</w> <w 
+    src="12" lemma="strong:G3543" morph="robinson:V-IPI-3S">yang dianggap</w>) <w 
+    src="13" lemma="strong:G5207" morph="robinson:N-NSM">anak</w> <w 
+    src="14" lemma="strong:G2501" morph="robinson:N-PRI">Yusuf</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="15" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="16" lemma="strong:G2242" morph="robinson:N-PRI">Eli</w>,<verse eID="Luke.3.23"/>
+<verse sID="Luke.3.24" osisID="Luke.3.24"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G3158" morph="robinson:N-PRI">Matat</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G3017" morph="robinson:N-PRI">Lewi</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G3197" morph="robinson:N-PRI">Malkhi</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G2388" morph="robinson:N-PRI">Yanai</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G2501" morph="robinson:N-PRI">Yusuf</w>,<verse eID="Luke.3.24"/>
+<verse sID="Luke.3.25" osisID="Luke.3.25"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1 2" lemma="strong:G3588 strong:G3161" morph="robinson:T-GSM robinson:N-GSM">Matica</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G301" morph="robinson:N-PRI">Amos</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G3486" morph="robinson:N-PRI">Nahum</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G2069" morph="robinson:N-PRI">Hesli</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G3477" morph="robinson:N-PRI">Nagai</w>,<verse eID="Luke.3.25"/>
+<verse sID="Luke.3.26" osisID="Luke.3.26"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G3092" morph="robinson:N-PRI">Maat</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3 4" lemma="strong:G3588 strong:G3161" morph="robinson:T-GSM robinson:N-GSM">Matica</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G4584" morph="robinson:N-PRI">Simei</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G2501" morph="robinson:N-PRI">Yusuf</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9 10" lemma="strong:G3588 strong:G2455" morph="robinson:T-GSM robinson:N-GSM">Yehuda</w>,<verse eID="Luke.3.26"/>
+<verse sID="Luke.3.27" osisID="Luke.3.27"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1 2" lemma="strong:G3588 strong:G2490" morph="robinson:T-GSM robinson:N-GSM">Yohanan</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G4488" morph="robinson:N-PRI">Resa</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2216" morph="robinson:N-PRI">Zerubabel</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G4528" morph="robinson:N-PRI">Sealtiel</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G3518" morph="robinson:N-PRI">Neri</w>,<verse eID="Luke.3.27"/>
+<verse sID="Luke.3.28" osisID="Luke.3.28"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G3197" morph="robinson:N-PRI">Malkhi</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G78" morph="robinson:N-PRI">Adi</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2973" morph="robinson:N-PRI">Kosam</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G1678" morph="robinson:N-PRI">Elmadam</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G2262" morph="robinson:N-PRI">Er</w>,<verse eID="Luke.3.28"/>
+<verse sID="Luke.3.29" osisID="Luke.3.29"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1 2" lemma="strong:G3588 strong:G2499" morph="robinson:T-GSM robinson:N-GSM">Yosua</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G1663" morph="robinson:N-PRI">Eliezer</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2497" morph="robinson:N-PRI">Yorim</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G3158" morph="robinson:N-PRI">Matat</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G3017" morph="robinson:N-PRI">Lewi</w>,<verse eID="Luke.3.29"/>
+<verse sID="Luke.3.30" osisID="Luke.3.30"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G4826" morph="robinson:N-PRI">Simeon</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3 4" lemma="strong:G3588 strong:G2455" morph="robinson:T-GSM robinson:N-GSM">Yehuda</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2501" morph="robinson:N-PRI">Yusuf</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G2494" morph="robinson:N-PRI">Yonam</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G1662" morph="robinson:N-PRI">Elyakim</w>,<verse eID="Luke.3.30"/>
+<verse sID="Luke.3.31" osisID="Luke.3.31"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G3190" morph="robinson:N-PRI">Melea</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G3104" morph="robinson:N-PRI">Mina</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G3160" morph="robinson:N-PRI">Matata</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G3481" morph="robinson:N-PRI">Natan</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G1138" morph="robinson:N-PRI">Daud</w>,<verse eID="Luke.3.31"/>
+<verse sID="Luke.3.32" osisID="Luke.3.32"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G2421" morph="robinson:N-PRI">Isai</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G5601" morph="robinson:N-PRI">Obed</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G1003" morph="robinson:N-PRI">Boas</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G4533" morph="robinson:N-PRI">Salmon</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G3476" morph="robinson:N-PRI">Nahason</w>,<verse eID="Luke.3.32"/>
+<verse sID="Luke.3.33" osisID="Luke.3.33"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G284" morph="robinson:N-PRI">Aminadab</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G689" morph="robinson:N-PRI">Aram</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2074" morph="robinson:N-PRI">Hezron</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G5329" morph="robinson:N-PRI">Peres</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9 10" lemma="strong:G3588 strong:G2455" morph="robinson:T-GSM robinson:N-GSM">Yehuda</w>,<verse eID="Luke.3.33"/>
+<verse sID="Luke.3.34" osisID="Luke.3.34"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G2384" morph="robinson:N-PRI">Yakub</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G2464" morph="robinson:N-PRI">Ishak</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G11" morph="robinson:N-PRI">Abraham</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G2291" morph="robinson:N-PRI">Tera</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G3493" morph="robinson:N-PRI">Nahor</w>,<verse eID="Luke.3.34"/>
+<verse sID="Luke.3.35" osisID="Luke.3.35"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G4562" morph="robinson:N-PRI">Serug</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G4466" morph="robinson:N-PRI">Rehu</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G5317" morph="robinson:N-PRI">Peleg</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w     
+    src="8" lemma="strong:G1443" morph="robinson:N-PRI">Eeber</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G4527" morph="robinson:N-PRI">Sala</w>,<verse eID="Luke.3.35"/>
+<verse sID="Luke.3.36" osisID="Luke.3.36"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G2536" morph="robinson:N-PRI">Kenan</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G742" morph="robinson:N-PRI">Arphakhsad</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G4590" morph="robinson:N-PRI">Sem</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G3575" morph="robinson:N-PRI">Nuh</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G2984" morph="robinson:N-PRI">Lamekh</w>,<verse eID="Luke.3.36"/>
+<verse sID="Luke.3.37" osisID="Luke.3.37"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G3103" morph="robinson:N-PRI">Metusalah</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G1802" morph="robinson:N-PRI">Henokh</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G2391" morph="robinson:N-PRI">Yared</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="8" lemma="strong:G3121" morph="robinson:N-PRI">Mahalaleel</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="10" lemma="strong:G2536" morph="robinson:N-PRI">Kenan</w>,<verse eID="Luke.3.37"/>
+<verse sID="Luke.3.38" osisID="Luke.3.38"/><transChange 
+    type="added">anak</transChange> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="2" lemma="strong:G1800" morph="robinson:N-PRI">Enos</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="4" lemma="strong:G4589" morph="robinson:N-PRI">Set</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="6" lemma="strong:G76" morph="robinson:N-PRI">Adam</w>, <transChange 
+    type="added">anak</transChange> <w 
+    src="7 8" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>.<verse eID="Luke.3.38"/></p>
 <chapter eID="Luke.3"/>
 </div></osisText></osis>
 
