@@ -396,7 +396,7 @@ g20<?xml version="1.0" encoding="UTF-8"?>
     src="22" lemma="strong:G2974" morph="robinson:A-NSM">bisu</w>.<verse eID="Luke.1.22"/>
 <verse sID="Luke.1.23" osisID="Luke.1.23"/><w 
     src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
-    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">akhinnya</w>, <w 
+    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">akhirnya</w>, <w 
     src="3" lemma="strong:G5613" morph="robinson:ADV">segera setelah</w> <w 
     src="4" lemma="strong:G4130" morph="robinson:V-API-3P">memenuhi</w> <w 
     src="5 6" lemma="strong:G3588 strong:G2250" morph="robinson:T-NPF robinson:N-NPF">hari-hari</w> <w 
@@ -3775,17 +3775,52 @@ g20<?xml version="1.0" encoding="UTF-8"?>
     src="18 19" lemma="strong:G3588 strong:G769" morph="robinson:T-GPF robinson:N-GPF">penyakit</w> <w 
     src="20" lemma="strong:G846" morph="robinson:P-GPM">mereka</w>.<verse eID="Luke.5.15"/></p>
 <p>
-<verse sID="Luke.5.16" osisID="Luke.5.16"/>
-    And he withdrew himself into the wilderness, 
-    and prayed.<verse eID="Luke.5.16"/>
-<verse sID="Luke.5.17" osisID="Luke.5.17"/>
-    And it came to pass on a certain day, 
-    as he was teaching, 
-    that there were Pharisees and doctors of the law sitting by, 
-    which were come out of every town of Galilee, 
-    and Judæa, 
-    and Jerusalem: 
-    and the power of the Lord was present to heal them.<verse eID="Luke.5.17"/></p>
+<verse sID="Luke.5.16" osisID="Luke.5.16"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
+    src="3" lemma="strong:G2258" morph="robinson:V-IXI-3S"/> <w 
+    src="4" lemma="strong:G5298" morph="robinson:V-PAP-NSM">menyingkir</w> <w 
+    src="5" lemma="strong:G1722" morph="robinson:PREP">ke</w> <w 
+    src="6" lemma="strong:G3588" morph="robinson:T-DPF"/> <w 
+    src="7" lemma="strong:G2048" morph="robinson:A-DPF">tempat yang terpencil</w>, <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="9" lemma="strong:G4336" morph="robinson:V-PNP-NSM">berdoa</w>.<verse eID="Luke.5.16"/>
+<verse sID="Luke.5.17" osisID="Luke.5.17"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
+    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadilah</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">pada</w> <w 
+    src="4" lemma="strong:G1520" morph="robinson:A-DSF">suatu</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G2250" morph="robinson:T-GPF robinson:N-GPF">hari</w>, <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">ketika</w> <w 
+    src="8" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
+    src="9" lemma="strong:G2258" morph="robinson:V-IXI-3S">sedang</w> <w 
+    src="10" lemma="strong:G1321" morph="robinson:V-PAP-NSM">mengajar</w>, <w 
+    src="11" lemma="strong:G2532" morph="robinson:CONJ"/> <w 
+    src="12" lemma="strong:G2258" morph="robinson:V-IXI-3P">ada</w> <w 
+    src="14" lemma="strong:G5330" morph="robinson:N-NPM">orang-orang Farisi</w> <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="16" lemma="strong:G3547" morph="robinson:N-NPM">ahli-ahli Taurat</w> <w 
+    src="13" lemma="strong:G2521" morph="robinson:V-PNP-NPM">duduk disana</w>, <w 
+    src="17" lemma="strong:G3739" morph="robinson:R-NPM">yang</w> <w 
+    src="18" lemma="strong:G2258" morph="robinson:V-IXI-3P">adalah</w> <w 
+    src="19" lemma="strong:G2064" morph="robinson:V-2RAP-NPM">datang</w> <w 
+    src="20" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="21" lemma="strong:G3956" morph="robinson:A-GSF">setiap</w> <w 
+    src="22" lemma="strong:G2968" morph="robinson:N-GSF">kota</w> <w 
+    src="23 24" lemma="strong:G3588 strong:G1056" morph="robinson:T-GSF robinson:N-GSF">di Galilea</w>, <w 
+    src="25" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="26" lemma="strong:G2449" morph="robinson:N-GSF">Yudea</w>, <w 
+    src="27" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="28" lemma="strong:G2419" morph="robinson:N-PRI">Yerusalem</w>: <w 
+    src="29" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="30" lemma="strong:G1411" morph="robinson:N-NSF">kuasa</w> <w 
+    src="31" lemma="strong:G2962" morph="robinson:N-GSM">Tuhan</w> <w 
+    src="32" lemma="strong:G2258" morph="robinson:V-IXI-3S">ada</w> <transChange 
+    type="added">hadir</transChange> <w 
+    src="33" lemma="strong:G1519" morph="robinson:PREP">untuk</w> <w 
+    src="34" lemma="strong:G3588" morph="robinson:T-ASN"/> <w 
+    src="35" lemma="strong:G2390" morph="robinson:V-PNN">menyembuhkan</w> <w 
+    src="36" lemma="strong:G846" morph="robinson:P-APM">mereka</w>.<verse eID="Luke.5.17"/></p>
 <p>
 <verse sID="Luke.5.18" osisID="Luke.5.18"/><verse eID="Luke.5.18"/>
 <verse sID="Luke.5.19" osisID="Luke.5.19"/><verse eID="Luke.5.19"/>
