@@ -4457,111 +4457,172 @@
     src="16 17" lemma="strong:G3588 strong:G4335" morph="robinson:T-DSF robinson:N-DSF">berdoa</w> <w 
     src="18 19" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">kepada Allah</w>.<verse eID="Luke.6.12"/></p>
 <p>
-<verse sID="Luke.6.13" osisID="Luke.6.13"/>
-    Lalu
-    setelah
-    hari
-    menjadi 
-    <transChange type="added">pagi</transChange>, 
-    Ia memanggil
-    murid-murid-Nya: 
-    lalu
-    dari
-    mereka
-    Ia memilih
-    dua belas, 
-    yang
-    juga
-    dinamai-Nya
-    rasul;<verse eID="Luke.6.13"/>
-<verse sID="Luke.6.14" osisID="Luke.6.14"/>
-    Simon, 
-    (yang
-    juga
-    dinamai-Nya
-    Petrus,) 
-    dan
-    Andreas
-    saudaranya, 
-    Yakobus 
-    dan
-    Yohanes, 
-    Filipus 
-    dan
-    Bartolomeus,<verse eID="Luke.6.14"/>
-<verse sID="Luke.6.15" osisID="Luke.6.15"/>
-    Matius 
-    dan 
-    Tomas, 
-    Yakobus 
-    anak
-    Alfeus, 
-    dan
-    Simon
-    yang disebut
-    orang Zelot,<verse eID="Luke.6.15"/>
-<verse sID="Luke.6.16" osisID="Luke.6.16"/>
-    Dan
-    Yudas
-    <transChange type="added">saudara</transChange>
-    Yakobus, 
-    and 
-    Yudas
-    Iskariot, 
-    yang
-    juga
-    menjadi
-    pengkhianat.
+<verse sID="Luke.6.13" osisID="Luke.6.13"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
+    src="2" lemma="strong:G3753" morph="robinson:ADV">setelah</w> <w 
+    src="4" lemma="strong:G2250" morph="robinson:N-NSF">hari</w> <w 
+    src="3" lemma="strong:G1096" morph="robinson:V-2ADI-3S">menjadi</w> <transChange 
+    type="added">pagi</transChange>, <w 
+    src="5" lemma="strong:G4377" morph="robinson:V-AAI-3S">Ia memanggil</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G3101" morph="robinson:T-APM robinson:N-APM">murid-murid</w>-<w 
+    src="8" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>: <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="10" lemma="strong:G1586" morph="robinson:V-AMP-NSM">Ia memilih</w> <w 
+    src="11" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="12" lemma="strong:G846" morph="robinson:P-GPM">mereka</w> <w 
+    src="13" lemma="strong:G1427" morph="robinson:A-NUI">dua belas</w> <transChange 
+    type="added">orang</transChange>, <w 
+    src="14" lemma="strong:G3739" morph="robinson:R-APM">yang</w> <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">dinamai-Nya</w> <w 
+    src="16" lemma="strong:G652" morph="robinson:N-APM">rasul</w>;<verse eID="Luke.6.13"/>
+<verse sID="Luke.6.14" osisID="Luke.6.14"/><w 
+    src="1" lemma="strong:G4613" morph="robinson:N-ASM">Simon</w>, (<w 
+    src="2" lemma="strong:G3739" morph="robinson:R-ASM">yang</w> <w 
+    src="3" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="4" lemma="strong:G3687" morph="robinson:V-AAI-3S">dinamai-Nya</w> <w 
+    src="5" lemma="strong:G4074" morph="robinson:N-ASM">Petrus</w>,) <w 
+    src="6" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="7" lemma="strong:G406" morph="robinson:N-ASM">Andreas</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G80" morph="robinson:T-ASM robinson:N-ASM">saudara</w><w 
+    src="10" lemma="strong:G846" morph="robinson:P-GSM">nya</w>, <w 
+    src="11" lemma="strong:G2385" morph="robinson:N-ASM">Yakobus</w> <w 
+    src="12" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="13" lemma="strong:G2491" morph="robinson:N-ASM">Yohanes</w>, <w 
+    src="14" lemma="strong:G5376" morph="robinson:N-ASM">Filipus</w> <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="16" lemma="strong:G918" morph="robinson:N-ASM">Bartolomeus</w>,<verse eID="Luke.6.14"/>
+<verse sID="Luke.6.15" osisID="Luke.6.15"/><w 
+    src="1" lemma="strong:G3156" morph="robinson:N-ASM">Matius</w> <w 
+    src="2" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="3" lemma="strong:G2381" morph="robinson:N-ASM">Tomas</w>, <w 
+    src="4" lemma="strong:G2385" morph="robinson:N-ASM">Yakobus</w> <w 
+    src="5" lemma="strong:G3588" morph="robinson:T-ASM"/> <transChange 
+    type="added">anak</transChange> <w 
+    src="6 7" lemma="strong:G3588 strong:G256" morph="robinson:T-GSM robinson:N-GSM">Alfeus</w>, <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G4613" morph="robinson:N-ASM">Simon</w> <w 
+    src="11" lemma="strong:G2564" morph="robinson:V-PPP-ASM">yang disebut</w> <w 
+    src="12" lemma="strong:G2207" morph="robinson:N-ASM">orang Zelot</w>,<verse eID="Luke.6.15"/>
+<verse sID="Luke.6.16" osisID="Luke.6.16"/><w 
+    src="1" lemma="strong:G2455" morph="robinson:N-ASM">Yudas</w> <transChange 
+    type="added">saudara</transChange> <w 
+    src="2" lemma="strong:G2385" morph="robinson:N-GSM">Yakobus</w>, <w 
+    src="3" lemma="strong:G2532" morph="robinson:CONJ">and</w> <w 
+    src="4" lemma="strong:G2455" morph="robinson:N-ASM">Yudas</w> <w 
+    src="5" lemma="strong:G2469" morph="robinson:N-ASM">Iskariot</w>, <w 
+    src="6" lemma="strong:G3739" morph="robinson:R-NSM">yang</w> <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="8" lemma="strong:G1096" morph="robinson:V-2ADI-3S">adalah</w> <w 
+    src="9" lemma="strong:G4273" morph="robinson:N-NSM">pengkhianat</w>.
 <verse eID="Luke.6.16"/></p>
 <p>
-<verse sID="Luke.6.17" osisID="Luke.6.17"/>
-    And he came down with them, 
-    and stood in the plain, 
-    and the company of his disciples, 
-    and a great multitude of people out of all Judæa and Jerusalem, 
-    and from the sea coast of Tyre and Sidon, 
-    which came to hear him, 
-    and to be healed of their diseases;<verse eID="Luke.6.17"/>
-<verse sID="Luke.6.18" osisID="Luke.6.18"/>
-    And they that were vexed with unclean spirits: 
-    and they were healed.<verse eID="Luke.6.18"/>
-<verse sID="Luke.6.19" osisID="Luke.6.19"/>
-    And the whole multitude sought to touch him: 
-    for there went virtue out of him, 
-    and healed them all.<verse eID="Luke.6.19"/></p>
+<verse sID="Luke.6.17" osisID="Luke.6.17"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
+    src="2" lemma="strong:G2597" morph="robinson:V-2AAP-NSM">Ia turun</w> <w 
+    src="3" lemma="strong:G3326" morph="robinson:PREP">dengan</w> <w 
+    src="4" lemma="strong:G846" morph="robinson:P-GPM">mereka</w>, <w 
+    src="5" lemma="strong:G2476" morph="robinson:V-2AAI-3S">dan berdiri</w> <w 
+    src="5" lemma="strong:G2476" morph="robinson:V-2AAI-3S">pada</w> <w 
+    src="7" lemma="strong:G5117" morph="robinson:N-GSM">tempat</w> <w 
+    src="8" lemma="strong:G3977" morph="robinson:A-GSM">yang datar</w>, <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="10" lemma="strong:G3793" morph="robinson:N-NSM">berkumpulah</w> <w 
+    src="11" lemma="strong:G3101" morph="robinson:N-GPM">murid-murid</w>-<w 
+    src="12" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="14" lemma="strong:G4128" morph="robinson:N-NSN">sejumlah</w> <w 
+    src="15" lemma="strong:G4183" morph="robinson:A-NSN">besar</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G2992" morph="robinson:T-GSM robinson:N-GSM">orang</w> <w 
+    src="18" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="19" lemma="strong:G3956" morph="robinson:A-GSF">seluruh</w> <w 
+    src="20 21" lemma="strong:G3588 strong:G2449" morph="robinson:T-GSF robinson:N-GSF">Yudea</w> <w 
+    src="22" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="23" lemma="strong:G2419" morph="robinson:N-PRI">Yerusalem</w>, <w 
+    src="24" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="25" lemma="strong:G3588" morph="robinson:T-GSF"/> <w 
+    src="26" lemma="strong:G3882" morph="robinson:A-GSF">daerah pantai</w> <w 
+    src="27" lemma="strong:G5184" morph="robinson:N-GSF">Tirus</w> <w 
+    src="28" lemma="strong:G2532" morph="robinson:CONJ">and</w> <w 
+    src="29" lemma="strong:G4605" morph="robinson:N-GSF">Sidon</w>, <w 
+    src="30" lemma="strong:G3739" morph="robinson:R-NPM">yang</w> <w 
+    src="31" lemma="strong:G2064" morph="robinson:V-2AAI-3P">datang</w> <w 
+    src="32" lemma="strong:G191" morph="robinson:V-AAN">untuk mendengarkan</w>-<w 
+    src="33" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
+    src="34" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="35" lemma="strong:G2390" morph="robinson:V-APN">untuk disembuhkan</w> <w 
+    src="36" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="37 38" lemma="strong:G3588 strong:G3554" morph="robinson:T-GPF robinson:N-GPF">penyakit-penyakit</w> <w 
+    src="39" lemma="strong:G846" morph="robinson:P-GPM">mereka</w>;<verse eID="Luke.6.17"/>
+<verse sID="Luke.6.18" osisID="Luke.6.18"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
+    src="3" lemma="strong:G3791" morph="robinson:V-PPP-NPM">mereka yang diusik</w> <w 
+    src="4" lemma="strong:G5259" morph="robinson:PREP">oleh</w> <w 
+    src="4" lemma="strong:G5259" morph="robinson:PREP">roh-roh</w> <w 
+    src="6" lemma="strong:G169" morph="robinson:A-GPN">jahat</w>: <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="8" lemma="strong:G2323" morph="robinson:V-IPI-3P">mereka disembuhkan</w>.<verse eID="Luke.6.18"/>
+<verse sID="Luke.6.19" osisID="Luke.6.19"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G3956" morph="robinson:A-NSM">semua</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G3793" morph="robinson:T-NSM robinson:N-NSM">orang banyak itu</w> <w 
+    src="5" lemma="strong:G2212" morph="robinson:V-IAI-3S">berusaha</w> <w 
+    src="6" lemma="strong:G680" morph="robinson:V-PMN">untuk menjamah</w>-<w 
+    src="7" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>: <w 
+    src="8" lemma="strong:G3754" morph="robinson:CONJ">sebab</w> <w 
+    src="9" lemma="strong:G1411" morph="robinson:N-NSF">ada kuasa</w> <w 
+    src="12" lemma="strong:G1831" morph="robinson:V-INI-3S">yang keluar</w> <w 
+    src="10" lemma="strong:G3844" morph="robinson:PREP">dari pada</w>-<w 
+    src="11" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="14" lemma="strong:G2390" morph="robinson:V-INI-3S">menyembuhkan</w> <transChange 
+    type="added">mereka</transChange> <w 
+    src="15" lemma="strong:G3956" morph="robinson:A-APM">semua</w>.<verse eID="Luke.6.19"/></p>
 <p>
-<verse sID="Luke.6.20" osisID="Luke.6.20"/><verse eID="Luke.6.20"/>
-<verse sID="Luke.6.21" osisID="Luke.6.21"/><verse eID="Luke.6.21"/>
-<verse sID="Luke.6.22" osisID="Luke.6.22"/><verse eID="Luke.6.22"/>
-<verse sID="Luke.6.23" osisID="Luke.6.23"/><verse eID="Luke.6.23"/>
-<verse sID="Luke.6.24" osisID="Luke.6.24"/><verse eID="Luke.6.24"/>
-<verse sID="Luke.6.25" osisID="Luke.6.25"/><verse eID="Luke.6.25"/>
-<verse sID="Luke.6.26" osisID="Luke.6.26"/><verse eID="Luke.6.26"/></p>
+<verse sID="Luke.6.20" osisID="Luke.6.20"/>
+    And he lifted up his eyes on his disciples, 
+    and said,
+    <q who="Jesus"> 
+    Blessed be ye poor: 
+    for yours is the kingdom of God.</q><verse eID="Luke.6.20"/>
+<verse sID="Luke.6.21" osisID="Luke.6.21"/><q who="Jesus">
+    Blessed are ye that hunger now: 
+    for ye shall be filled. 
+    Blessed are ye that weep now: 
+    for ye shall laugh</q><verse eID="Luke.6.21"/>
+<verse sID="Luke.6.22" osisID="Luke.6.22"/><q who="Jesus">
+    Bless them that curse you, 
+    and pray for them which despitefully use you.</q><verse eID="Luke.6.22"/>
+<verse sID="Luke.6.23" osisID="Luke.6.23"/><q who="Jesus"></q><verse eID="Luke.6.23"/>
+<verse sID="Luke.6.24" osisID="Luke.6.24"/><q who="Jesus"></q><verse eID="Luke.6.24"/>
+<verse sID="Luke.6.25" osisID="Luke.6.25"/><q who="Jesus"></q><verse eID="Luke.6.25"/>
+<verse sID="Luke.6.26" osisID="Luke.6.26"/><q who="Jesus"></q><verse eID="Luke.6.26"/></p>
 <p>
-<verse sID="Luke.6.27" osisID="Luke.6.27"/><verse eID="Luke.6.27"/>
-<verse sID="Luke.6.28" osisID="Luke.6.28"/><verse eID="Luke.6.28"/>
-<verse sID="Luke.6.29" osisID="Luke.6.29"/><verse eID="Luke.6.29"/>
-<verse sID="Luke.6.30" osisID="Luke.6.30"/><verse eID="Luke.6.30"/>
-<verse sID="Luke.6.31" osisID="Luke.6.31"/><verse eID="Luke.6.31"/>
-<verse sID="Luke.6.32" osisID="Luke.6.32"/><verse eID="Luke.6.32"/>
-<verse sID="Luke.6.33" osisID="Luke.6.33"/><verse eID="Luke.6.33"/>
-<verse sID="Luke.6.34" osisID="Luke.6.34"/><verse eID="Luke.6.34"/>
-<verse sID="Luke.6.35" osisID="Luke.6.35"/><verse eID="Luke.6.35"/>
-<verse sID="Luke.6.36" osisID="Luke.6.36"/><verse eID="Luke.6.36"/>
-<verse sID="Luke.6.37" osisID="Luke.6.37"/><verse eID="Luke.6.37"/>
-<verse sID="Luke.6.38" osisID="Luke.6.38"/><verse eID="Luke.6.38"/>
-<verse sID="Luke.6.39" osisID="Luke.6.39"/><verse eID="Luke.6.39"/>
-<verse sID="Luke.6.40" osisID="Luke.6.40"/><verse eID="Luke.6.40"/>
-<verse sID="Luke.6.41" osisID="Luke.6.41"/><verse eID="Luke.6.41"/>
-<verse sID="Luke.6.42" osisID="Luke.6.42"/><verse eID="Luke.6.42"/>
-<verse sID="Luke.6.43" osisID="Luke.6.43"/><verse eID="Luke.6.43"/>
-<verse sID="Luke.6.44" osisID="Luke.6.44"/><verse eID="Luke.6.44"/>
-<verse sID="Luke.6.45" osisID="Luke.6.45"/><verse eID="Luke.6.45"/></p>
+<verse sID="Luke.6.27" osisID="Luke.6.27"/><q who="Jesus"></q><verse eID="Luke.6.27"/>
+<verse sID="Luke.6.28" osisID="Luke.6.28"/><q who="Jesus"></q><verse eID="Luke.6.28"/>
+<verse sID="Luke.6.29" osisID="Luke.6.29"/><q who="Jesus"></q><verse eID="Luke.6.29"/>
+<verse sID="Luke.6.30" osisID="Luke.6.30"/><q who="Jesus"></q><verse eID="Luke.6.30"/>
+<verse sID="Luke.6.31" osisID="Luke.6.31"/><q who="Jesus"></q><verse eID="Luke.6.31"/>
+<verse sID="Luke.6.32" osisID="Luke.6.32"/><q who="Jesus"></q><verse eID="Luke.6.32"/>
+<verse sID="Luke.6.33" osisID="Luke.6.33"/><q who="Jesus"></q><verse eID="Luke.6.33"/>
+<verse sID="Luke.6.34" osisID="Luke.6.34"/><q who="Jesus"></q><verse eID="Luke.6.34"/>
+<verse sID="Luke.6.35" osisID="Luke.6.35"/><q who="Jesus"></q><verse eID="Luke.6.35"/>
+<verse sID="Luke.6.36" osisID="Luke.6.36"/><q who="Jesus"></q><verse eID="Luke.6.36"/>
+<verse sID="Luke.6.37" osisID="Luke.6.37"/><q who="Jesus"></q><verse eID="Luke.6.37"/>
+<verse sID="Luke.6.38" osisID="Luke.6.38"/><q who="Jesus"></q><verse eID="Luke.6.38"/>
+<verse sID="Luke.6.39" osisID="Luke.6.39"/><q who="Jesus"></q><verse eID="Luke.6.39"/>
+<verse sID="Luke.6.40" osisID="Luke.6.40"/><q who="Jesus"></q><verse eID="Luke.6.40"/>
+<verse sID="Luke.6.41" osisID="Luke.6.41"/><q who="Jesus"></q><verse eID="Luke.6.41"/>
+<verse sID="Luke.6.42" osisID="Luke.6.42"/><q who="Jesus"></q><verse eID="Luke.6.42"/>
+<verse sID="Luke.6.43" osisID="Luke.6.43"/><q who="Jesus"></q><verse eID="Luke.6.43"/>
+<verse sID="Luke.6.44" osisID="Luke.6.44"/><q who="Jesus"></q><verse eID="Luke.6.44"/>
+<verse sID="Luke.6.45" osisID="Luke.6.45"/><q who="Jesus"></q><verse eID="Luke.6.45"/></p>
 <p>
-<verse sID="Luke.6.46" osisID="Luke.6.46"/><verse eID="Luke.6.46"/>
-<verse sID="Luke.6.47" osisID="Luke.6.47"/><verse eID="Luke.6.47"/>
-<verse sID="Luke.6.48" osisID="Luke.6.48"/><verse eID="Luke.6.48"/>
-<verse sID="Luke.6.49" osisID="Luke.6.49"/><verse eID="Luke.6.49"/></p>
+<verse sID="Luke.6.46" osisID="Luke.6.46"/><q who="Jesus"></q><verse eID="Luke.6.46"/>
+<verse sID="Luke.6.47" osisID="Luke.6.47"/><q who="Jesus"></q><verse eID="Luke.6.47"/>
+<verse sID="Luke.6.48" osisID="Luke.6.48"/><q who="Jesus"></q><verse eID="Luke.6.48"/>
+<verse sID="Luke.6.49" osisID="Luke.6.49"/><q who="Jesus"></q><verse eID="Luke.6.49"/></p>
 <chapter eID="Luke.6"/>
 </div></osisText></osis>
 
