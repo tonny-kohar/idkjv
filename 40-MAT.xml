@@ -1034,8 +1034,8 @@
     src="15" lemma="strong:G1081" morph="robinson:N-VPN">Hai keturunan</w> <w
     src="16" lemma="strong:G2191" morph="robinson:N-GPF">ular berbisa</w>, <w 
     src="17" lemma="strong:G5101" morph="robinson:I-NSM">siapa</w> <w 
-    src="18" lemma="strong:G5263" morph="robinson:V-AAI-3S">yang memperingati</w> <w
-    src="19" lemma="strong:G5213" morph="robinson:P-2DP">kamu</w> <w
+    src="18" lemma="strong:G5263" morph="robinson:V-AAI-3S">yang menyatakan</w> <w
+    src="19" lemma="strong:G5213" morph="robinson:P-2DP">kepada kamu</w> <w
     src="20" lemma="strong:G5343" morph="robinson:V-2AAN">untuk melarikan diri</w> <w
     src="21" lemma="strong:G575" morph="robinson:PREP">dari</w> <w
     src="24" lemma="strong:G3588 strong:G3709" morph="robinson:T-GSF robinson:N-GSF">murka</w> <w
@@ -6574,11 +6574,11 @@
     src="6" lemma="strong:G2980" morph="robinson:V-PAN">mengatakan</w> <w 
     src="5" lemma="strong:G18" morph="robinson:A-APN">hal-hal yang baik</w>? <w 
     src="10" lemma="strong:G1063" morph="robinson:CONJ">sebab</w> <w 
-    src="9" lemma="strong:G1537" morph="robinson:PREP">keluar dari</w> <w 
+    src="9" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
     src="11 12" lemma="strong:G3588 strong:G4051" morph="robinson:T-GSN robinson:N-GSN">kelimpahan</w> <w 
     src="13 14" lemma="strong:G3588 strong:G2588" morph="robinson:T-GSF robinson:N-GSF">hatilah</w> <w 
-    src="17" lemma="strong:G2980" morph="robinson:V-PAI-3S">yang diucapkan</w> <w 
-    src="15 16" lemma="strong:G3588 strong:G4750" morph="robinson:T-NSN robinson:N-NSN">mulut</w></q><verse eID="Matt.12.34"/>
+    src="15 16" lemma="strong:G3588 strong:G4750" morph="robinson:T-NSN robinson:N-NSN">mulut</w> <w 
+    src="17" lemma="strong:G2980" morph="robinson:V-PAI-3S">berkata-kata</w></q><verse eID="Matt.12.34"/>
 <verse sID="Matt.12.35" osisID="Matt.12.35"/><q who="Jesus"><w 
     src="3" lemma="strong:G444" morph="robinson:N-NSM">Orang</w> <w 
     src="1" lemma="strong:G3588" morph="robinson:T-NSM">yang</w> <w 
