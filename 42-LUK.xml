@@ -1783,8 +1783,8 @@
     src="8" lemma="strong:G5064" morph="robinson:A-GPN">empat</w> <w 
     src="6" lemma="strong:G2094" morph="robinson:N-GPN">tahun</w>, <w 
     src="9" lemma="strong:G3739" morph="robinson:R-NSF">yang</w> <w 
-    src="9" lemma="strong:G3739" morph="robinson:R-NSF">tidak</w> <w 
-    src="9" lemma="strong:G3739" morph="robinson:R-NSF">pernah pergi</w> <w 
+    src="10" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w 
+    src="11" lemma="strong:G868" morph="robinson:V-INI-3S">pernah pergi</w> <w 
     src="12" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
     src="13 14" lemma="strong:G3588 strong:G2411" morph="robinson:T-GSN robinson:N-GSN">Bait</w> <transChange 
     type="added">Allah</transChange>, <w 
@@ -6074,5 +6074,347 @@
     src="12" lemma="strong:G1519" morph="robinson:PREP">dalam</w> <w 
     src="13" lemma="strong:G1515" morph="robinson:N-ASF">damai sejahtera</w>.</q><verse eID="Luke.7.50"/></p>
 <chapter eID="Luke.7"/>
+<chapter sID="Luke.8" osisID="Luke.8" chapterTitle="PASAL 8."/>
+<title type="chapter">PASAL 8.</title><p>
+<verse sID="Luke.8.1" osisID="Luke.8.1"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadilah</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP"/> <w 
+    src="4" lemma="strong:G3588" morph="robinson:T-DSM"/> <w 
+    src="5" lemma="strong:G2517" morph="robinson:ADV">sesudah itu</w>, <w 
+    src="6" lemma="strong:G2532" morph="robinson:CONJ"/> <w 
+    src="7" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
+    src="8" lemma="strong:G1353" morph="robinson:V-IAI-3S">pergi ke seluruh</w> <w 
+    src="9" lemma="strong:G2596" morph="robinson:PREP">setiap</w> <w 
+    src="10" lemma="strong:G4172" morph="robinson:N-ASF">kota</w> <w 
+    src="11" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="12" lemma="strong:G2968" morph="robinson:N-ASF">desa</w>, <w 
+    src="13" lemma="strong:G2784" morph="robinson:V-PAP-NSM">memberitakan</w> <w 
+    src="14" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="15" lemma="strong:G2097" morph="robinson:V-PMP-NSM">membawa kabar baik</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G932" morph="robinson:T-ASF robinson:N-ASF">kerajaan</w> <w 
+    src="18 19" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>: <w 
+    src="20" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="21" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
+    src="22" lemma="strong:G1427" morph="robinson:A-NUI">kedua belas</w> <transChange 
+    type="added">murid</transChange> <w 
+    src="23" lemma="strong:G4862" morph="robinson:PREP">bersama dengan</w>-<w 
+    src="24" lemma="strong:G846" morph="robinson:P-DSM">Nya</w>,<verse eID="Luke.8.1"/>
+<verse sID="Luke.8.2" osisID="Luke.8.2"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan juga</w> <w 
+    src="3" lemma="strong:G5100" morph="robinson:X-NPF">beberapa</w> <w 
+    src="2" lemma="strong:G1135" morph="robinson:N-NPF">perempuan</w>, <w 
+    src="4" lemma="strong:G3739" morph="robinson:R-NPF">yang</w> <w 
+    src="5" lemma="strong:G2258" morph="robinson:V-IXI-3P">telah</w> <w 
+    src="6" lemma="strong:G2323" morph="robinson:V-RPP-NPF">disembuhkan</w> <w 
+    src="7" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="8" lemma="strong:G4151" morph="robinson:N-GPN">roh-roh</w> <w 
+    src="9" lemma="strong:G4190" morph="robinson:A-GPN">jahat</w> <w 
+    src="10" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="11" lemma="strong:G769" morph="robinson:N-GPF">kelemahan-kelemahan</w>, <w 
+    src="12" lemma="strong:G3137" morph="robinson:N-NSF">Maria</w> <w 
+    src="13" lemma="strong:G3588" morph="robinson:T-NSF"/> <w 
+    src="14" lemma="strong:G2564" morph="robinson:V-PPP-NSF">yang disebut</w> <w 
+    src="15" lemma="strong:G3094" morph="robinson:N-NSF">Magdalena</w>, <w 
+    src="16" lemma="strong:G575" morph="robinson:PREP">yang daripada</w><w 
+    src="17" lemma="strong:G3739" morph="robinson:R-GSF">nya</w> <w 
+    src="20" lemma="strong:G1831" morph="robinson:V-LAI-3S">telah keluar</w> <w 
+    src="19" lemma="strong:G2033" morph="robinson:A-NUI">tujuh</w> <w 
+    src="18" lemma="strong:G1140" morph="robinson:N-NPN">setan-setan</w>,<verse eID="Luke.8.2"/>
+<verse sID="Luke.8.3" osisID="Luke.8.3"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G2489" morph="robinson:N-GSF">Yohana</w> <w 
+    src="3" lemma="strong:G1135" morph="robinson:N-NSF">istri</w> <w 
+    src="4" lemma="strong:G5529" morph="robinson:N-GSM">Khuza</w> <w 
+    src="5" lemma="strong:G2012" morph="robinson:N-GSM">pengurus pelayan</w> <w 
+    src="6" lemma="strong:G2264" morph="robinson:N-GSM">Herodes</w>, <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="8" lemma="strong:G4677" morph="robinson:N-NSF">Susana</w>, <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="11" lemma="strong:G4183" morph="robinson:A-NPF">banyak</w> <w 
+    src="10" lemma="strong:G2087" morph="robinson:A-NPF">yang lain</w>, <w 
+    src="12" lemma="strong:G3748" morph="robinson:R-NPF">yang</w> <w 
+    src="12" lemma="strong:G3748" morph="robinson:R-NPF">melayani</w>-<w 
+    src="14" lemma="strong:G846" morph="robinson:P-DSM">Nya</w> <w 
+    src="15" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="16" lemma="strong:G3588" morph="robinson:T-GPN"/> <w 
+    src="17" lemma="strong:G5224" morph="robinson:V-PAP-GPN">kepunyaan</w> <w 
+    src="18" lemma="strong:G846" morph="robinson:P-DPF">mereka</w>.<verse eID="Luke.8.3"/></p>
+<p>
+<verse sID="Luke.8.4" osisID="Luke.8.4"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan ketika</w> <w 
+    src="4" lemma="strong:G4183" morph="robinson:A-GSM">banyak</w> <w 
+    src="3" lemma="strong:G3793" morph="robinson:N-GSM">orang</w> <w 
+    src="1" lemma="strong:G4896" morph="robinson:V-PXP-GSM">telah berkumpul</w>, <w 
+    src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G1975" morph="robinson:V-PNP-GPM">datang</w> <w 
+    src="10" lemma="strong:G4314" morph="robinson:PREP">kepada</w>-<w 
+    src="11" lemma="strong:G846" morph="robinson:P-ASM">Nya</w> <w 
+    src="6" lemma="strong:G3588" morph="robinson:T-GPM"/> <w 
+    src="7" lemma="strong:G2596" morph="robinson:PREP">dari setiap</w> <w 
+    src="8" lemma="strong:G4172" morph="robinson:N-ASF">kota</w>, <w 
+    src="12" lemma="strong:G2036" morph="robinson:V-2AAI-3S">Ia berkata</w> <w 
+    src="13" lemma="strong:G1223" morph="robinson:PREP">melalui</w> <w 
+    src="14" lemma="strong:G3850" morph="robinson:N-GSF">sebuah perumpamaan</w>:<verse eID="Luke.8.4"/>
+<verse sID="Luke.8.5" osisID="Luke.8.5"/><q who="Jesus"><w 
+    src="2" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="3" lemma="strong:G4687" morph="robinson:V-PAP-NSM">Seorang penabur</w> <w 
+    src="1" lemma="strong:G1831" morph="robinson:V-2AAI-3S">keluar</w> <w 
+    src="4" lemma="strong:G3588" morph="robinson:T-GSM"/> <w 
+    src="5" lemma="strong:G4687" morph="robinson:V-AAN">untuk menabur</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G4703" morph="robinson:T-ASM robinson:N-ASM">benih</w><w 
+    src="8" lemma="strong:G846" morph="robinson:P-GSM">nya</w>: <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="10" lemma="strong:G1722" morph="robinson:PREP">saat</w> <w 
+    src="13" lemma="strong:G846" morph="robinson:P-ASM">ia</w> <w 
+    src="11" lemma="strong:G3588" morph="robinson:T-DSM"/> <w 
+    src="12" lemma="strong:G4687" morph="robinson:V-PAN">menabur</w>, <w 
+    src="14" lemma="strong:G3739" morph="robinson:R-NSN">beberapa</w> <w 
+    src="15" lemma="strong:G3303" morph="robinson:PRT">bahkan</w> <w 
+    src="16" lemma="strong:G4098" morph="robinson:V-2AAI-3S">jatuh</w> <w 
+    src="17" lemma="strong:G3844" morph="robinson:PREP">di tepi</w> <w 
+    src="18 19" lemma="strong:G3588 strong:G3598" morph="robinson:T-ASF robinson:N-ASF">jalan</w>; <w 
+    src="20" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="21" lemma="strong:G2662" morph="robinson:V-API-3S">terinjak-injak</w>, <w 
+    src="22" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="23 24" lemma="strong:G3588 strong:G4071" morph="robinson:T-NPN robinson:N-NPN">burung-burung</w> <w 
+    src="25 26" lemma="strong:G3588 strong:G3772" morph="robinson:T-GSM robinson:N-GSM">di udara</w> <w 
+    src="27" lemma="strong:G2719" morph="robinson:V-2AAI-3S">memakan</w><w 
+    src="28" lemma="strong:G846" morph="robinson:P-ASN">nya</w>.</q><verse eID="Luke.8.5"/>
+<verse sID="Luke.8.6" osisID="Luke.8.6"/><q who="Jesus"><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G2087" morph="robinson:A-NSN">yang lain</w> <w 
+    src="3" lemma="strong:G4098" morph="robinson:V-2AAI-3S">jatuh</w> <w 
+    src="4" lemma="strong:G1909" morph="robinson:PREP">di atas</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G4073" morph="robinson:T-ASF robinson:N-ASF">batu-batuan</w>; <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="8" lemma="strong:G5453" morph="robinson:V-2APP-NSN">ketika bertumbuh</w>, <w 
+    src="9" lemma="strong:G3583" morph="robinson:V-API-3S">ia menjadi kering</w>, <w 
+    src="10" lemma="strong:G1223" morph="robinson:PREP">karena</w> <w 
+    src="11" lemma="strong:G3588" morph="robinson:T-ASN"/> <w 
+    src="12" lemma="strong:G3361" morph="robinson:PRT-N">tidak</w> <w 
+    src="13" lemma="strong:G2192" morph="robinson:V-PAN">mendapat</w> <w 
+    src="14" lemma="strong:G2429" morph="robinson:N-ASF">kelembapan</w>.</q><verse eID="Luke.8.6"/>
+<verse sID="Luke.8.7" osisID="Luke.8.7"/><q who="Jesus"><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G2087" morph="robinson:A-NSN">yang lain</w> <w 
+    src="3" lemma="strong:G4098" morph="robinson:V-2AAI-3S">jatuh</w> <w 
+    src="4" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
+    src="5" lemma="strong:G3319" morph="robinson:A-DSN">antara</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G173" morph="robinson:T-GPF robinson:N-GPF">duri-duri</w>; <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G4855" morph="robinson:V-2APP-NPF">bertumbuhlah</w> <w 
+    src="10 11" lemma="strong:G3588 strong:G173" morph="robinson:T-NPF robinson:N-NPF">duri-duri itu</w>, <w 
+    src="12" lemma="strong:G638" morph="robinson:V-AAI-3P">dan menghimpit</w><w 
+    src="13" lemma="strong:G846" morph="robinson:P-ASN">nya</w>.</q><verse eID="Luke.8.7"/>
+<verse sID="Luke.8.8" osisID="Luke.8.8"/><q who="Jesus"><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G2087" morph="robinson:A-NSN">yang lain</w> <w 
+    src="3" lemma="strong:G4098" morph="robinson:V-2AAI-3S">jatuh</w> <w 
+    src="4" lemma="strong:G1909" morph="robinson:PREP">di atas</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G1093" morph="robinson:T-ASF robinson:N-ASF">tanah</w> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-ASF"/> <w 
+    src="8" lemma="strong:G18" morph="robinson:A-ASF">yang baik</w>, <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="10" lemma="strong:G5453" morph="robinson:V-2APP-NSN">bertumbuh</w>, <w 
+    src="11" lemma="strong:G4160" morph="robinson:V-AAI-3S">menghasilkan</w> <w 
+    src="12" lemma="strong:G2590" morph="robinson:N-ASM">buah</w> <w 
+    src="13" lemma="strong:G1542" morph="robinson:A-ASM">seratus kali lipat</w>.</q> <w 
+    src="15" lemma="strong:G3004" morph="robinson:V-PAP-NSM">Dan setelah Ia mengatakan</w> <w 
+    src="14" lemma="strong:G5023" morph="robinson:D-APN">hal-hal ini</w>, <w 
+    src="16" lemma="strong:G5455" morph="robinson:V-IAI-3S">Ia berseru</w>, <q who="Jesus"><w 
+    src="17" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="18" lemma="strong:G2192" morph="robinson:V-PAP-NSM">Yang mempunyai</w> <w 
+    src="19" lemma="strong:G3775" morph="robinson:N-APN">telinga</w> <w 
+    src="20" lemma="strong:G191" morph="robinson:V-PAN">untuk mendengar</w>, <w 
+    src="21" lemma="strong:G191" morph="robinson:V-PAM-3S">hendaklah mendengarkan</w>.</q><verse eID="Luke.8.8"/>
+<verse sID="Luke.8.9" osisID="Luke.8.9"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G3101" morph="robinson:T-NPM robinson:N-NPM">murid-murid</w>-<w 
+    src="6" lemma="strong:G846" morph="robinson:P-GSM">Nya</w> <w 
+    src="1" lemma="strong:G1905" morph="robinson:V-IAI-3P">bertanya</w> <w 
+    src="3" lemma="strong:G846" morph="robinson:P-ASM">kepada-Nya</w>, <w 
+    src="7" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
+    src="8" lemma="strong:G5101" morph="robinson:I-NSF">Apa</w> <w 
+    src="9" lemma="strong:G1498" morph="robinson:V-PXO-3S">arti</w> <w 
+    src="10 11" lemma="strong:G3588 strong:G3850" morph="robinson:T-NSF robinson:N-NSF">perumpamaan</w> <w 
+    src="12" lemma="strong:G3778" morph="robinson:D-NSF">ini</w>?<verse eID="Luke.8.9"/>
+<verse sID="Luke.8.10" osisID="Luke.8.10"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="3" lemma="strong:G2036" morph="robinson:V-2AAI-3S">Ia berkata</w>, <q who="Jesus"><w 
+    src="4" lemma="strong:G5213" morph="robinson:P-2DP">Kepadamu</w> <w 
+    src="5" lemma="strong:G1325" morph="robinson:V-RPI-3S">diberi</w> <w 
+    src="6" lemma="strong:G1097" morph="robinson:V-2AAN">tahukan</w> <w 
+    src="7 8" lemma="strong:G3588 strong:G3466" morph="robinson:T-APN robinson:N-APN">rahasia</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G932" morph="robinson:T-GSF robinson:N-GSF">kerajaan</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>: <w 
+    src="14" lemma="strong:G1161" morph="robinson:CONJ">tetapi</w> <w 
+    src="13" lemma="strong:G3588" morph="robinson:T-DPM"/> <w 
+    src="15" lemma="strong:G3062" morph="robinson:A-DPM">kepada yang lain</w> <w 
+    src="16" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="17" lemma="strong:G3850" morph="robinson:N-DPF">perumpamaan-perumpamaan</w>; <w 
+    src="18" lemma="strong:G2443" morph="robinson:CONJ">supaya sekalipun</w> <w 
+    src="19" lemma="strong:G991" morph="robinson:V-PAP-NPM">melihat</w> <w 
+    src="20" lemma="strong:G3361" morph="robinson:PRT-N">tiada</w> <w 
+    src="21" lemma="strong:G991" morph="robinson:V-PAS-3P">mereka melihat</w>, <w 
+    src="22" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="23" lemma="strong:G191" morph="robinson:V-PAP-NPM">mendengar</w> <w 
+    src="24" lemma="strong:G3361" morph="robinson:PRT-N">tiada</w> <w 
+    src="25" lemma="strong:G4920" morph="robinson:V-PAS-3P">mereka memahami</w>.</q><verse eID="Luke.8.10"/>
+<verse sID="Luke.8.11" osisID="Luke.8.11"/><q who="Jesus"><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="3" lemma="strong:G3778" morph="robinson:D-NSF">ini</w> <w 
+    src="1" lemma="strong:G2076" morph="robinson:V-PXI-3S">adalah</w> <transChange 
+    type="added">arti</transChange> <w 
+    src="4 5" lemma="strong:G3588 strong:G3850" morph="robinson:T-NSF robinson:N-NSF">perumpamaan itu</w>: <w 
+    src="6 7" lemma="strong:G3588 strong:G4703" morph="robinson:T-NSM robinson:N-NSM">Benih itu</w> <w 
+    src="8" lemma="strong:G2076" morph="robinson:V-PXI-3S">adalah</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">firman</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>.</q><verse eID="Luke.8.11"/>
+<verse sID="Luke.8.12" osisID="Luke.8.12"/><q who="Jesus"><w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NPM">Yang</w> <transChange 
+    type="added">jatuh</transChange> <w 
+    src="3" lemma="strong:G3844" morph="robinson:PREP">di tepi</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G3598" morph="robinson:T-ASF robinson:N-ASF">jalan</w> <w 
+    src="6" lemma="strong:G1526" morph="robinson:V-PXI-3P">adalah mereka</w> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-NPM">yang</w> <w 
+    src="8" lemma="strong:G191" morph="robinson:V-PAP-NPM">mendengar</w>; <w 
+    src="9" lemma="strong:G1534" morph="robinson:ADV">kemudian</w> <w 
+    src="10" lemma="strong:G2064" morph="robinson:V-PNI-3S">datanglah</w> <w 
+    src="11" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="12" lemma="strong:G1228" morph="robinson:A-NSM">iblis</w>, <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="14" lemma="strong:G142" morph="robinson:V-PAI-3S">mengambil</w> <w 
+    src="15 16" lemma="strong:G3588 strong:G3056" morph="robinson:T-ASM robinson:N-ASM">firman itu</w> <w 
+    src="17" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="18 19" lemma="strong:G3588 strong:G2588" morph="robinson:T-GSF robinson:N-GSF">hati</w> <w 
+    src="20" lemma="strong:G846" morph="robinson:P-GPM">mereka</w>, <w 
+    src="21" lemma="strong:G2443" morph="robinson:CONJ">supaya</w> <w 
+    src="22" lemma="strong:G3361" morph="robinson:PRT-N">janganlah</w> <w 
+    src="23" lemma="strong:G4100" morph="robinson:V-AAP-NPM">mereka menjadi percaya</w> <w 
+    src="24" lemma="strong:G4982" morph="robinson:V-APS-3P">dan diselamatkan</w>.</q><verse eID="Luke.8.12"/>
+<verse sID="Luke.8.13" osisID="Luke.8.13"/><q who="Jesus"><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ"/> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NPM">Yang</w> <w 
+    src="3" lemma="strong:G1909" morph="robinson:PREP">di atas</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G4073" morph="robinson:T-GSF robinson:N-GSF">batu-batuan</w> <transChange 
+    type="added">adalah mereka</transChange>, <w 
+    src="6" lemma="strong:G3739" morph="robinson:R-NPM">yang</w>, <w 
+    src="7" lemma="strong:G3752" morph="robinson:CONJ">ketika</w> <w 
+    src="8" lemma="strong:G191" morph="robinson:V-AAS-3P">mereka mendengar</w>, <w 
+    src="11" lemma="strong:G1209" morph="robinson:V-PNI-3P">menerima</w> <w 
+    src="12 13" lemma="strong:G3588 strong:G3056" morph="robinson:T-ASM robinson:N-ASM">firman itu</w> <w 
+    src="9" lemma="strong:G3326" morph="robinson:PREP">dengan</w> <w 
+    src="10" lemma="strong:G5479" morph="robinson:N-GSF">sukacita</w>; <w 
+    src="14" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="15" lemma="strong:G3778" morph="robinson:D-NPM">ini</w> <w 
+    src="17" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w 
+    src="18" lemma="strong:G2192" morph="robinson:V-PAI-3P">mempunyai</w> <w 
+    src="16" lemma="strong:G4491" morph="robinson:N-ASF">akar</w>, <w 
+    src="19" lemma="strong:G3739" morph="robinson:R-NPM">yang</w> <w 
+    src="20" lemma="strong:G4314" morph="robinson:PREP">untuk</w> <w 
+    src="21" lemma="strong:G2540" morph="robinson:N-ASM">sementara</w> <w 
+    src="22" lemma="strong:G4100" morph="robinson:V-PAI-3P">percaya</w>, <w 
+    src="23" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="24" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="25" lemma="strong:G2540" morph="robinson:N-DSM">masa</w> <w 
+    src="26" lemma="strong:G3986" morph="robinson:N-GSM">pencobaan</w> <w 
+    src="27" lemma="strong:G868" morph="robinson:V-PNI-3P">menjadi murtad</w>.</q><verse eID="Luke.8.13"/>
+<verse sID="Luke.8.14" osisID="Luke.8.14"/><q who="Jesus"><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NSN">yang</w> <w 
+    src="6" lemma="strong:G4098" morph="robinson:V-2AAP-NSN">jatuh</w> <w 
+    src="3" lemma="strong:G1519" morph="robinson:PREP">di antara</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G173" morph="robinson:T-APF robinson:N-APF">duri-duri</w> <w 
+    src="8" lemma="strong:G1526" morph="robinson:V-PXI-3P">adalah</w> <w 
+    src="7" lemma="strong:G3778" morph="robinson:D-NPM">mereka</w>, <w 
+    src="9" lemma="strong:G3588" morph="robinson:T-NPM">yang</w>, <w 
+    src="10" lemma="strong:G191" morph="robinson:V-AAP-NPM">mendengar</w>, <w 
+    src="20" lemma="strong:G4198" morph="robinson:V-PNP-NPM">berjalan</w>, <w 
+    src="11" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="21" lemma="strong:G4846" morph="robinson:V-PPI-3P">terhimpit</w> <w 
+    src="12" lemma="strong:G5259" morph="robinson:PREP">dengan</w> <w 
+    src="13" lemma="strong:G3308" morph="robinson:N-GPF">kekuatiran</w> <w 
+    src="14" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="15" lemma="strong:G4149" morph="robinson:N-GSM">kekayaan</w> <w 
+    src="16" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="17" lemma="strong:G2237" morph="robinson:N-GPF">kenikmatan</w> <w 
+    src="19" lemma="strong:G979" morph="robinson:N-GSM">hidup</w>, <w 
+    src="22" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="23" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w 
+    src="24" lemma="strong:G5052" morph="robinson:V-PAI-3P">menghasilkan buah yang matang</w>.</q><verse eID="Luke.8.14"/>
+<verse sID="Luke.8.15" osisID="Luke.8.15"/><q who="Jesus"><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Tetapi</w> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NSN">yang</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">jatuh di atas</w> <w 
+    src="6" lemma="strong:G1093" morph="robinson:N-DSF">tanah</w> <w 
+    src="4" lemma="strong:G3588" morph="robinson:T-DSF"/> <w 
+    src="5" lemma="strong:G2570" morph="robinson:A-DSF">yang baik</w> <w 
+    src="8" lemma="strong:G1526" morph="robinson:V-PXI-3P">adalah</w> <w 
+    src="7" lemma="strong:G3778" morph="robinson:D-NPM">mereka</w>, <w 
+    src="9" lemma="strong:G3748" morph="robinson:R-NPM">yang</w> <w 
+    src="10" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="11" lemma="strong:G2588" morph="robinson:N-DSF">hati</w> <w 
+    src="12" lemma="strong:G2570" morph="robinson:A-DSF">yang baik</w> <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="14" lemma="strong:G18" morph="robinson:A-DSF">benar</w>, <w 
+    src="15" lemma="strong:G191" morph="robinson:V-AAP-NPM">setelah mendengar</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G3056" morph="robinson:T-ASM robinson:N-ASM">firman</w>, <w 
+    src="18" lemma="strong:G2722" morph="robinson:V-PAI-3P">menyimpannya</w>, <w 
+    src="19" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="20" lemma="strong:G2592" morph="robinson:V-PAI-3P">menghasilkan buah</w> <w 
+    src="21" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="22" lemma="strong:G5281" morph="robinson:N-DSF">ketekunan</w>.</q><verse eID="Luke.8.15"/></p>
+<p>
+<verse sID="Luke.8.16" osisID="Luke.8.16"/><verse eID="Luke.8.16"/>
+<verse sID="Luke.8.17" osisID="Luke.8.17"/><verse eID="Luke.8.17"/>
+<verse sID="Luke.8.18" osisID="Luke.8.18"/><verse eID="Luke.8.18"/></p>
+<p>
+<verse sID="Luke.8.19" osisID="Luke.8.19"/><verse eID="Luke.8.19"/>
+<verse sID="Luke.8.20" osisID="Luke.8.20"/><verse eID="Luke.8.20"/>
+<verse sID="Luke.8.21" osisID="Luke.8.21"/><verse eID="Luke.8.21"/></p>
+<p>
+<verse sID="Luke.8.22" osisID="Luke.8.22"/><verse eID="Luke.8.22"/>
+<verse sID="Luke.8.23" osisID="Luke.8.23"/><verse eID="Luke.8.23"/>
+<verse sID="Luke.8.24" osisID="Luke.8.24"/><verse eID="Luke.8.24"/>
+<verse sID="Luke.8.25" osisID="Luke.8.25"/><verse eID="Luke.8.25"/></p>
+<p>
+<verse sID="Luke.8.26" osisID="Luke.8.26"/><verse eID="Luke.8.26"/>
+<verse sID="Luke.8.27" osisID="Luke.8.27"/><verse eID="Luke.8.27"/>
+<verse sID="Luke.8.28" osisID="Luke.8.28"/><verse eID="Luke.8.28"/>
+<verse sID="Luke.8.29" osisID="Luke.8.29"/><verse eID="Luke.8.29"/>
+<verse sID="Luke.8.30" osisID="Luke.8.30"/><verse eID="Luke.8.30"/>
+<verse sID="Luke.8.31" osisID="Luke.8.31"/><verse eID="Luke.8.31"/>
+<verse sID="Luke.8.32" osisID="Luke.8.32"/><verse eID="Luke.8.32"/>
+<verse sID="Luke.8.33" osisID="Luke.8.33"/><verse eID="Luke.8.33"/>
+<verse sID="Luke.8.34" osisID="Luke.8.34"/><verse eID="Luke.8.34"/>
+<verse sID="Luke.8.35" osisID="Luke.8.35"/><verse eID="Luke.8.35"/>
+<verse sID="Luke.8.36" osisID="Luke.8.36"/><verse eID="Luke.8.36"/></p>
+<p>
+<verse sID="Luke.8.37" osisID="Luke.8.37"/><verse eID="Luke.8.37"/>
+<verse sID="Luke.8.38" osisID="Luke.8.38"/><verse eID="Luke.8.38"/>
+<verse sID="Luke.8.39" osisID="Luke.8.39"/><verse eID="Luke.8.39"/>
+<verse sID="Luke.8.40" osisID="Luke.8.40"/><verse eID="Luke.8.40"/></p>
+<p>
+<verse sID="Luke.8.41" osisID="Luke.8.41"/><verse eID="Luke.8.41"/>
+<verse sID="Luke.8.42" osisID="Luke.8.42"/><verse eID="Luke.8.42"/></p>
+<p>
+<verse sID="Luke.8.43" osisID="Luke.8.43"/><verse eID="Luke.8.43"/>
+<verse sID="Luke.8.44" osisID="Luke.8.44"/><verse eID="Luke.8.44"/>
+<verse sID="Luke.8.45" osisID="Luke.8.45"/><verse eID="Luke.8.45"/>
+<verse sID="Luke.8.46" osisID="Luke.8.46"/><verse eID="Luke.8.46"/>
+<verse sID="Luke.8.47" osisID="Luke.8.47"/><verse eID="Luke.8.47"/>
+<verse sID="Luke.8.48" osisID="Luke.8.48"/><verse eID="Luke.8.48"/></p>
+<p>
+<verse sID="Luke.8.49" osisID="Luke.8.49"/><verse eID="Luke.8.49"/>
+<verse sID="Luke.8.50" osisID="Luke.8.50"/><verse eID="Luke.8.50"/>
+<verse sID="Luke.8.51" osisID="Luke.8.51"/><verse eID="Luke.8.51"/>
+<verse sID="Luke.8.52" osisID="Luke.8.52"/><verse eID="Luke.8.52"/>
+<verse sID="Luke.8.53" osisID="Luke.8.53"/><verse eID="Luke.8.53"/>
+<verse sID="Luke.8.54" osisID="Luke.8.54"/><verse eID="Luke.8.54"/>
+<verse sID="Luke.8.55" osisID="Luke.8.55"/><verse eID="Luke.8.55"/>
+<verse sID="Luke.8.56" osisID="Luke.8.56"/><verse eID="Luke.8.56"/></p>
+<chapter eID="Luke.8"/>
 </div></osisText></osis>
 
