@@ -4033,7 +4033,7 @@
     src="4" lemma="strong:G5101" morph="robinson:I-NSN">Mengapa</w> <w 
     src="6" lemma="strong:G2075" morph="robinson:V-PXI-2P">kamu</w> <w 
     src="5" lemma="strong:G1169" morph="robinson:A-NPM">takut</w>, <w 
-    src="7" lemma="strong:G3640" morph="robinson:A-VPM">Hai kamu yang kurang percaya</w>? <w 
+    src="7" lemma="strong:G3640" morph="robinson:A-VPM">Hai kamu yang kurang percaya</w>?</q> <w 
     src="8" lemma="strong:G5119" morph="robinson:ADV">Kemudian</w> <w 
     src="9" lemma="strong:G1453" morph="robinson:V-APP-NSM">Ia bangun</w>, <w 
     src="10" lemma="strong:G2008" morph="robinson:V-AAI-3S">dan menegur</w> <w 
@@ -4044,7 +4044,7 @@
     type="added">danau itu</transChange> <w 
     src="17" lemma="strong:G1096" morph="robinson:V-2ADI-3S">menjadi</w> <w 
     src="19" lemma="strong:G3173" morph="robinson:A-NSF">sangat</w> <w 
-    src="18" lemma="strong:G1055" morph="robinson:N-NSF">tenang</w>.</q><verse eID="Matt.8.26"/>
+    src="18" lemma="strong:G1055" morph="robinson:N-NSF">tenang</w>.<verse eID="Matt.8.26"/>
 <verse sID="Matt.8.27" osisID="Matt.8.27"/><w 
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
     src="1 3" lemma="strong:G3588 strong:G444" morph="robinson:T-NPM robinson:N-NPM">orang-orang</w> <w 
@@ -4094,10 +4094,10 @@
     src="2" lemma="strong:G2400" morph="robinson:V-2AAM-2S">lihatlah</w>, <w 
     src="3" lemma="strong:G2896" morph="robinson:V-AAI-3P">mereka berteriak</w>, <w 
     src="4" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
-    src="5" lemma="strong:G5101" morph="robinson:I-NSN">Apa</w> <w 
-    src="8" lemma="strong:G4671" morph="robinson:P-2DS">yang akan Engkau</w> <w 
-    src="7" lemma="strong:G2532" morph="robinson:CONJ">lakukan</w> <w 
-    src="6" lemma="strong:G2254" morph="robinson:P-1DP">terhadap kami</w>, <w 
+    src="5" lemma="strong:G5101" morph="robinson:I-NSN">Ada apakah</w> <w 
+    src="6" lemma="strong:G2254" morph="robinson:P-1DP">kami</w> <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="8" lemma="strong:G4671" morph="robinson:P-2DS">Engkau</w>, <w 
     src="9" lemma="strong:G2424" morph="robinson:N-VSM">Yesus</w>, <w 
     src="10" lemma="strong:G5207" morph="robinson:N-VSM">Anak</w> <w 
     src="11 12" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>? <w 
