@@ -5559,7 +5559,7 @@
     src="17" lemma="strong:G3101" morph="robinson:N-APM">murid-murid</w>-<w 
     src="18" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
     src="19" lemma="strong:G3004" morph="robinson:V-PAI-3S">dan berkata</w> <w 
-    src="20" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w>,<verse eID="Mark.8.2"/>
+    src="20" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w>,<verse eID="Mark.8.1"/>
 <verse sID="Mark.8.2" osisID="Mark.8.2"/><q who="Jesus"><w 
     src="1" lemma="strong:G4697" morph="robinson:V-PNI-1S">Aku berbelas kasihan</w> <w 
     src="2" lemma="strong:G1909" morph="robinson:PREP">kepada</w> <w 
@@ -5578,7 +5578,7 @@
     src="12" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w 
     src="13" lemma="strong:G2192" morph="robinson:V-PAI-3P">mempunyai</w> <w 
     src="12" lemma="strong:G3756" morph="robinson:PRT-N">apa-apa</w> <w 
-    src="15" lemma="strong:G5315" morph="robinson:V-2AAS-3P">untuk makan</w>:</q><verse sID="Mark.8.2"/>
+    src="15" lemma="strong:G5315" morph="robinson:V-2AAS-3P">untuk makan</w>:</q><verse eID="Mark.8.2"/>
 <verse sID="Mark.8.3" osisID="Mark.8.3"/><q who="Jesus"><w 
     src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
     src="2" lemma="strong:G1437" morph="robinson:COND">apabila</w> <w 
@@ -5846,7 +5846,7 @@
     src="3" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w
     src="4" lemma="strong:G991" morph="robinson:V-PAI-2P">melihatkah kamu</w>? <w
     src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <transChange
-    type="added">kamu]</transChange> <w
+    type="added">kamu</transChange> <w
     src="7" lemma="strong:G2192" morph="robinson:V-PAP-NPM">mempunyai</w> <w
     src="6" lemma="strong:G3775" morph="robinson:N-APN">telinga</w>, <w
     src="8" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w
