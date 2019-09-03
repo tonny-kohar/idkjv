@@ -1401,7 +1401,7 @@
     src="11" lemma="strong:G2107" morph="robinson:N-NSF">yang diperkenan</w>.<verse eID="Luke.2.14"/>
 <verse sID="Luke.2.15" osisID="Luke.2.15"/><w 
     src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
-    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">akhirnya</w>, <w 
+    src="2" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadilah</w>, <w 
     src="3" lemma="strong:G5613" morph="robinson:ADV">segera setelah</w> <w 
     src="10 11" lemma="strong:G3588 strong:G32" morph="robinson:T-NPM robinson:N-NPM">malaikat itu</w> <w 
     src="4" lemma="strong:G565" morph="robinson:V-2AAI-3P">pergi</w> <w 
@@ -8910,9 +8910,45 @@
     src="24" lemma="strong:G863" morph="robinson:V-2AAP-NPM">meninggalkannya</w> <w 
     src="26" lemma="strong:G5177" morph="robinson:V-PAP-ASM">dalam keadaan</w> <w 
     src="25" lemma="strong:G2253" morph="robinson:A-ASM">setengah mati</w>.<verse eID="Luke.10.30"/>
-<verse sID="Luke.10.31" osisID="Luke.10.31"/><verse eID="Luke.10.31"/>
-<verse sID="Luke.10.32" osisID="Luke.10.32"/><verse eID="Luke.10.32"/>
-<verse sID="Luke.10.33" osisID="Luke.10.33"/><verse eID="Luke.10.33"/>
+<verse sID="Luke.10.31" osisID="Luke.10.31"/><w 
+    src="3" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G2596" morph="robinson:PREP">secara</w> <w 
+    src="2" lemma="strong:G4795" morph="robinson:N-ASF">kebetulan</w> <w 
+    src="6" lemma="strong:G2597" morph="robinson:V-IAI-3S">turunlah</w> <w 
+    src="5" lemma="strong:G5100" morph="robinson:X-NSM">seorang</w> <w 
+    src="4" lemma="strong:G2409" morph="robinson:N-NSM">imam</w> <w 
+    src="7" lemma="strong:G1722" morph="robinson:PREP">pada</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G3598" morph="robinson:T-DSF robinson:N-DSF">jalan</w> <w
+    src="10" lemma="strong:G1565" morph="robinson:D-DSF">itu</w>; <w 
+    src="11" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="12" lemma="strong:G1492" morph="robinson:V-2AAP-NSM">ketika ia melihat</w> <w 
+    src="13" lemma="strong:G846" morph="robinson:P-ASM">nya</w>, <w 
+    src="14" lemma="strong:G492" morph="robinson:V-2AAI-3S">ia melewatinya dari seberang jalan</w>.<verse eID="Luke.10.31"/>
+<verse sID="Luke.10.32" osisID="Luke.10.32"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G3668" morph="robinson:ADV">demikian</w> <w 
+    src="3" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="4" lemma="strong:G3019" morph="robinson:N-NSM">seorang Lewi</w>, <w 
+    src="5" lemma="strong:G1096" morph="robinson:V-2ADP-NSM">terjadi</w> <w 
+    src="6" lemma="strong:G2596" morph="robinson:PREP">di</w> <w 
+    src="7 8" lemma="strong:G3588 strong:G5117" morph="robinson:T-ASM robinson:N-ASM">tempat itu</w>, <w
+    src="9" lemma="strong:G2064" morph="robinson:V-2AAP-NSM">tiba</w> <w 
+    src="10" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="11" lemma="strong:G1492" morph="robinson:V-2AAP-NSM">melihat</w> <transChange 
+    type="added">nya</transChange>, <w 
+    src="12" lemma="strong:G492" morph="robinson:V-2AAI-3S">ia melewatinya dari seberang jalan</w>.<verse eID="Luke.10.32"/>
+<verse sID="Luke.10.33" osisID="Luke.10.33"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Tetapi</w> <w 
+    src="3" lemma="strong:G5100" morph="robinson:X-NSM">seorang</w> <w 
+    src="1" lemma="strong:G4541" morph="robinson:N-NSM">Samaria</w>, <w 
+    src="4" lemma="strong:G3593" morph="robinson:V-PAP-NSM">yang sedang dalam perjalanan</w>, <w 
+    src="5" lemma="strong:G2064" morph="robinson:V-2AAI-3S">tiba</w> <w 
+    src="6" lemma="strong:G2596" morph="robinson:PREP">di</w> <w 
+    src="7" lemma="strong:G846" morph="robinson:P-ASM">tempat itu</w>; <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G1492" morph="robinson:V-2AAP-NSM">ketika ia melihat</w> <w 
+    src="10" lemma="strong:G846" morph="robinson:P-ASM">nya</w>, <w 
+    src="11" lemma="strong:G4697" morph="robinson:V-AOI-3S">tergeraklah ia oleh belas kasihan</w>,<verse eID="Luke.10.33"/>
 <verse sID="Luke.10.34" osisID="Luke.10.34"/><verse eID="Luke.10.34"/>
 <verse sID="Luke.10.35" osisID="Luke.10.35"/><verse eID="Luke.10.35"/>
 <verse sID="Luke.10.36" osisID="Luke.10.36"/><verse eID="Luke.10.36"/>
