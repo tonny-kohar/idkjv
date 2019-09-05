@@ -1,12 +1,10 @@
-rmdir /S /Q -rf sword
+rmdir /S /Q sword
 mkdir sword\mods.d
 mkdir sword\modules\texts\ztext\idkjv
 
 copy idkjv.conf sword\mods.d\
 
 set OUTPUTPATH=sword\modules\texts\ztext\idkjv\
-
-REM rm -f $OUTPUTPATH/*.*
 
 ECHO "40-MAT.xml"
 D:\osis2mod\osis2mod %OUTPUTPATH% 40-MAT.xml -z -b 4 -v KJV
