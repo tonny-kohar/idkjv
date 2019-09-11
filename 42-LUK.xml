@@ -9337,9 +9337,60 @@
     src="21" lemma="strong:G846" morph="robinson:P-DSM">kepadanya</w> <w 
     src="22" lemma="strong:G3745" morph="robinson:K-GPM">sebanyak</w> <w 
     src="23" lemma="strong:G5535" morph="robinson:V-PAI-3S">yang diperlukannya</w>.<verse eID="Luke.11.8"/>
-<verse sID="Luke.11.9" osisID="Luke.11.9"/><verse eID="Luke.11.9"/>
-<verse sID="Luke.11.10" osisID="Luke.11.10"/><verse eID="Luke.11.10"/>
-<verse sID="Luke.11.11" osisID="Luke.11.11"/><verse eID="Luke.11.11"/>
+<verse sID="Luke.11.9" osisID="Luke.11.9"/><w 
+    src="1" lemma="strong:G2504" morph="robinson:P-1NS-C">Dan Aku</w> <w 
+    src="3" lemma="strong:G3004" morph="robinson:V-PAI-1S">berkata</w> <w 
+    src="2" lemma="strong:G5213" morph="robinson:P-2DP">kepadamu</w>, <w 
+    src="4" lemma="strong:G154" morph="robinson:V-PAM-2P">Mintalah</w>, <w 
+    src="5" lemma="strong:G2532" morph="robinson:CONJ">maka</w> <w 
+    src="6" lemma="strong:G1325" morph="robinson:V-FPI-3S">itu akan diberikan</w> <w 
+    src="7" lemma="strong:G5213" morph="robinson:P-2DP">you</w>; <w 
+    src="8" lemma="strong:G2212" morph="robinson:V-PAM-2P">Carilah</w>, <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">maka</w> <w 
+    src="10" lemma="strong:G2147" morph="robinson:V-FAI-2P">kamu akan mendapatkan</w>; <w 
+    src="11" lemma="strong:G2925" morph="robinson:V-PAM-2P">Ketuklah</w>, <w 
+    src="12" lemma="strong:G2532" morph="robinson:CONJ">maka</w> <w 
+    src="13" lemma="strong:G455" morph="robinson:V-2FPI-3S">itu akan dibukakan</w> <w 
+    src="14" lemma="strong:G5213" morph="robinson:P-2DP">bagimu</w>.<verse eID="Luke.11.9"/>
+<verse sID="Luke.11.10" osisID="Luke.11.10"/><w 
+    src="2" lemma="strong:G1063" morph="robinson:CONJ">Sebab</w> <w 
+    src="1" lemma="strong:G3956" morph="robinson:A-NSM">setiap</w> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-NSM"/><w 
+    src="4" lemma="strong:G154" morph="robinson:V-PAP-NSM">yang meminta</w> <w 
+    src="5" lemma="strong:G2983" morph="robinson:V-PAI-3S">menerima</w>; <w 
+    src="6" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-NSM"/><w 
+    src="8" lemma="strong:G2212" morph="robinson:V-PAP-NSM">yang mencari</w> <w 
+    src="9" lemma="strong:G2147" morph="robinson:V-PAI-3S">mendapat</w>; <w 
+    src="10" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="11" lemma="strong:G3588" morph="robinson:T-DSM"/><w 
+    src="12" lemma="strong:G2925" morph="robinson:V-PAP-DSM">yang mengetuk</w> <w 
+    src="13" lemma="strong:G455" morph="robinson:V-2FPI-3S">akan dibukakan</w> <transChange 
+    type="added">baginya</transChange>.<verse eID="Luke.11.10"/>
+<verse sID="Luke.11.11" osisID="Luke.11.11"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Jika</w> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-NSM"/><w 
+    src="8" lemma="strong:G5207" morph="robinson:N-NSM">seorang anak</w> <w 
+    src="6" lemma="strong:G154" morph="robinson:V-FAI-3S">meminta</w> <w 
+    src="9" lemma="strong:G740" morph="robinson:N-ASM">roti</w> <w 
+    src="1" lemma="strong:G5101" morph="robinson:I-ASM">adakah</w> <w 
+    src="3" lemma="strong:G5216" morph="robinson:P-2GP">diantara kamu</w> <w 
+    src="4" lemma="strong:G3588" morph="robinson:T-ASM"/><w 
+    src="5" lemma="strong:G3962" morph="robinson:N-ASM">yang adalah ayah</w>, <w 
+    src="10" lemma="strong:G3361" morph="robinson:PRT-N"/><w 
+    src="12" lemma="strong:G1929" morph="robinson:V-FAI-3S">akan memberikan</w> <w 
+    src="13" lemma="strong:G846" morph="robinson:P-DSM">ia</w> <w 
+    src="11" lemma="strong:G3037" morph="robinson:N-ASM">batu</w>? <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="14" lemma="strong:G1487" morph="robinson:COND">jika</w> <transChange 
+    type="added">ia meminta</transChange> <w 
+    src="16" lemma="strong:G2486" morph="robinson:N-ASM">ikan</w>, <w 
+    src="17" lemma="strong:G3361" morph="robinson:PRT-N">tiada</w>  <w 
+    src="18" lemma="strong:G473" morph="robinson:PREP">sebagai ganti</w> <w 
+    src="19" lemma="strong:G2486" morph="robinson:N-GSM">ikan</w> <w 
+    src="20" lemma="strong:G3789" morph="robinson:N-ASM">ular</w> <w 
+    src="21" lemma="strong:G1929" morph="robinson:V-FAI-3S">akan diberikan</w><w 
+    src="22" lemma="strong:G846" morph="robinson:P-DSM">kepadanya</w>?<verse eID="Luke.11.11"/>
 <verse sID="Luke.11.12" osisID="Luke.11.12"/><verse eID="Luke.11.12"/>
 <verse sID="Luke.11.13" osisID="Luke.11.13"/><verse eID="Luke.11.13"/></p>
 <p>
