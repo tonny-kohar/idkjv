@@ -4590,7 +4590,7 @@
     src="8 9" lemma="strong:G3588 strong:G3101" morph="robinson:T-APM robinson:N-APM">murid-murid</w>-<w 
     src="10" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
     src="11" lemma="strong:G3004" morph="robinson:V-IAI-3S">dan berkata</w>, <q who="Jesus"><w 
-    src="11" lemma="strong:G3004" morph="robinson:V-IAI-3S">Berbahagialah</w> <transChange 
+    src="12" lemma="strong:G3107" morph="robinson:A-NPM">Berbahagialah</w> <transChange 
     type="added">engkau</transChange> <w 
     src="13" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
     src="14" lemma="strong:G4434" morph="robinson:A-NPM">yang miskin</w>: <w 
@@ -9668,8 +9668,48 @@
     src="22" lemma="strong:G3588" morph="robinson:T-GPN"/><w 
     src="23" lemma="strong:G4413" morph="robinson:A-GPN">dari yang pertama</w>.<verse eID="Luke.11.26"/></p>
 <p>
-<verse sID="Luke.11.27" osisID="Luke.11.27"/><verse eID="Luke.11.27"/>
-<verse sID="Luke.11.28" osisID="Luke.11.28"/><verse eID="Luke.11.28"/></p>
+<verse sID="Luke.11.27" osisID="Luke.11.27"/><w 
+    src="4" lemma="strong:G3588" morph="robinson:T-DSM"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadilah</w>, <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">Ketika</w> <w 
+    src="6" lemma="strong:G846" morph="robinson:P-ASM">Ia</w> <w 
+    src="5" lemma="strong:G3004" morph="robinson:V-PAN">mengatakan</w> <w 
+    src="7" lemma="strong:G5023" morph="robinson:D-APN">hal-hal ini</w>, <w 
+    src="9" lemma="strong:G5100" morph="robinson:X-NSF">seorang</w> <w 
+    src="10" lemma="strong:G1135" morph="robinson:N-NSF">perempuan</w> <w 
+    src="12" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="13" lemma="strong:G3588" morph="robinson:T-GSM"/><w 
+    src="14" lemma="strong:G3793" morph="robinson:N-GSM">kerumunan orang banyak</w> <w 
+    src="8" lemma="strong:G1869" morph="robinson:V-AAP-NSF">berseru mengangkat</w> <w 
+    src="11" lemma="strong:G5456" morph="robinson:N-ASF">suaranya</w>, <w 
+    src="15" lemma="strong:G2036" morph="robinson:V-2AAI-3S">berkata</w> <w 
+    src="16" lemma="strong:G846" morph="robinson:P-DSM">kepada-Nya</w>, <w 
+    src="17" lemma="strong:G3107" morph="robinson:A-NSF">Berbahagialah</w> <w 
+    src="18" lemma="strong:G3588" morph="robinson:T-NSF"/><w 
+    src="19" lemma="strong:G2836" morph="robinson:N-NSF">perut</w> <w 
+    src="20" lemma="strong:G3588" morph="robinson:T-NSF"/><w 
+    src="21" lemma="strong:G941" morph="robinson:V-AAP-NSF">yang telah mengandung</w> <w 
+    src="22" lemma="strong:G4571" morph="robinson:P-2AS">Engkau</w>, <w 
+    src="23" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="24" lemma="strong:G3149" morph="robinson:N-NPM">buah dada</w> <w 
+    src="25" lemma="strong:G3739" morph="robinson:R-APM">yang</w> <w 
+    src="26" lemma="strong:G2337" morph="robinson:V-AAI-2S">telah menyusui Engkau</w>.<verse eID="Luke.11.27"/>
+<verse sID="Luke.11.28" osisID="Luke.11.28"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Tetapi</w> <w 
+    src="1" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
+    src="3" lemma="strong:G2036" morph="robinson:V-2AAI-3S">berkata</w>, <q who="Jesus"><w 
+    src="4" lemma="strong:G3304" morph="robinson:PRT">Sebaliknya</w>, <w 
+    src="5" lemma="strong:G3107" morph="robinson:A-NPM">berbahagialah</w> <w 
+    src="6" lemma="strong:G3588" morph="robinson:T-NPM"/><w 
+    src="7" lemma="strong:G191" morph="robinson:V-PAP-NPM">mereka yang mendengar</w> <w 
+    src="8" lemma="strong:G3588" morph="robinson:T-ASM"/><w 
+    src="9" lemma="strong:G3056" morph="robinson:N-ASM">firman</w> <w 
+    src="10" lemma="strong:G3588" morph="robinson:T-GSM"/><w 
+    src="11" lemma="strong:G2316" morph="robinson:N-GSM">Allah</w>, <w 
+    src="12" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="13" lemma="strong:G5442" morph="robinson:V-PAP-NPM">menjaga</w> <w 
+    src="14" lemma="strong:G846" morph="robinson:P-ASM">nya</w>.</q><verse eID="Luke.11.28"/></p>
 <p>
 <verse sID="Luke.11.29" osisID="Luke.11.29"/><verse eID="Luke.11.29"/>
 <verse sID="Luke.11.30" osisID="Luke.11.30"/><verse eID="Luke.11.30"/>
