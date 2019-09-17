@@ -1,6 +1,6 @@
 # Indonesian King James Version (KJV) Translation
 
-This is an attempt to translate Bible text King James Version (KJV) into Indonesian Language with embedded Strongs Numbers and Morphology.
+[This is](https://www.kiyut.com/products/alkitab/translation/index.php) an attempt to translate Bible text King James Version (KJV) into Indonesian Language with embedded Strongs Numbers and Morphology.
 
 This is basically a "literal" or "word-for-word" translation which try to capture the precise wording of the KJV text. This is not "thought-for-thought" or "dynamic equivalence" translation. However, at the same time this translation also taking into account of grammar, syntax, and idiom between English used in KJV and the target Indonesian language (Bahasa Indonesia) in order to make pleasurable reading or readability in Bahasa Indonesia.
 
