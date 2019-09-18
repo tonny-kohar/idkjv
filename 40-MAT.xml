@@ -6705,7 +6705,7 @@
     src="8 9" lemma="strong:G3588 strong:G1074" morph="robinson:T-GSF robinson:N-GSF">angkatan</w> <w 
     src="10" lemma="strong:G3778" morph="robinson:D-GSF">ini</w>, <w 
     src="11" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
-    src="12" lemma="strong:G2632" morph="robinson:V-FAI-3P">akan menyalahkan</w><w 
+    src="12" lemma="strong:G2632" morph="robinson:V-FAI-3P">akan menghakimi</w><w 
     src="13" lemma="strong:G846" morph="robinson:P-ASF">nya</w>: <w 
     src="14" lemma="strong:G3754" morph="robinson:CONJ">karena</w> <w 
     src="15" lemma="strong:G3340" morph="robinson:V-AAI-3P">mereka bertobat</w> <w 
@@ -6714,10 +6714,10 @@
     src="19" lemma="strong:G2495" morph="robinson:N-GSM">Yunus</w>; <w 
     src="20" lemma="strong:G2532" morph="robinson:CONJ">dan</w>, <w 
     src="21" lemma="strong:G2400" morph="robinson:V-2AAM-2S">lihatlah</w>, <w 
-    src="24" lemma="strong:G5602" morph="robinson:ADV">disini</w> <transChange 
+    src="22" lemma="strong:G4119" morph="robinson:A-NSN-C">yang lebih besar daripada</w> <w 
+    src="23" lemma="strong:G2495" morph="robinson:N-GSM">Yunus</w> <transChange 
     type="added">ada</transChange> <w 
-    src="22" lemma="strong:G4119" morph="robinson:A-NSN-C">yang lebih</w> <w 
-    src="23" lemma="strong:G2495" morph="robinson:N-GSM">daripada Yunus</w>.</q><verse eID="Matt.12.41"/>
+    src="24" lemma="strong:G5602" morph="robinson:ADV">disini</w>.</q><verse eID="Matt.12.41"/>
 <verse sID="Matt.12.42" osisID="Matt.12.42"/><q who="Jesus"><w 
     src="1" lemma="strong:G938" morph="robinson:N-NSF">Ratu</w> <w 
     src="2" lemma="strong:G3558" morph="robinson:N-GSM">Selatan</w> <w 
@@ -6740,10 +6740,10 @@
     src="24" lemma="strong:G4672" morph="robinson:N-GSM">Salomo</w>; <w 
     src="25" lemma="strong:G2532" morph="robinson:CONJ">dan</w>, <w 
     src="26" lemma="strong:G2400" morph="robinson:V-2AAM-2S">lihatlah</w>, <w 
-    src="29" lemma="strong:G5602" morph="robinson:ADV">disini</w> <transChange 
+    src="27" lemma="strong:G4119" morph="robinson:A-NSN-C">yang lebih besar daripada</w> <w 
+    src="28" lemma="strong:G4672" morph="robinson:N-GSM">Salomo</w> <transChange 
     type="added">ada</transChange> <w 
-    src="27" lemma="strong:G4119" morph="robinson:A-NSN-C">yang lebih</w> <w 
-    src="28" lemma="strong:G4672" morph="robinson:N-GSM">daripada Salomo</w>.</q><verse eID="Matt.12.42"/>
+    src="29" lemma="strong:G5602" morph="robinson:ADV">disini</w>.</q><verse eID="Matt.12.42"/>
 <verse sID="Matt.12.43" osisID="Matt.12.43"/><q who="Jesus"><w 
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
     src="1" lemma="strong:G3752" morph="robinson:CONJ">apabila</w> <w 
