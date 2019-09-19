@@ -1832,20 +1832,20 @@
 <verse sID="Matt.5.15" osisID="Matt.5.15"/><q who="Jesus"><w 
     src="1" lemma="strong:G3761" morph="robinson:ADV">Tidak ada seorang pun</w> <w
     src="2" lemma="strong:G2545" morph="robinson:V-PAI-3P">menyalakan</w> <w
-    src="3" lemma="strong:G3088" morph="robinson:N-ASF">lilin</w>, <w
+    src="3" lemma="strong:G3088" morph="robinson:N-ASF">pelita</w>, <w
     src="4" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w
     src="5" lemma="strong:G5087" morph="robinson:V-PAI-3P">meletakan</w><w
     src="6" lemma="strong:G846" morph="robinson:P-ASM">nya</w> <w
-    src="7" lemma="strong:G5259" morph="robinson:PREP">dibawah</w> <w 
+    src="7" lemma="strong:G5259" morph="robinson:PREP">di bawah</w> <w 
     src="8 9" lemma="strong:G3588 strong:G3426" morph="robinson:T-ASM robinson:N-ASM">gantang</w>, <w
     src="10" lemma="strong:G235" morph="robinson:CONJ">tetapi</w> <w
-    src="11" lemma="strong:G1909" morph="robinson:PREP">diatas</w> <w 
+    src="11" lemma="strong:G1909" morph="robinson:PREP">di atas</w> <w 
     src="12 13" lemma="strong:G3588 strong:G3087" morph="robinson:T-ASF robinson:N-ASF">kandil</w>; <w
     src="14" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w
     src="15" lemma="strong:G2989" morph="robinson:V-PAI-3S">menerangi</w> <w
     src="16" lemma="strong:G3956" morph="robinson:A-DPM">semua</w> <w
     src="17" lemma="strong:G3588" morph="robinson:T-DPM">yang berada</w> <w
-    src="18" lemma="strong:G1722" morph="robinson:PREP">didalam</w> <w 
+    src="18" lemma="strong:G1722" morph="robinson:PREP">di dalam</w> <w 
     src="19 20" lemma="strong:G3588 strong:G3614" morph="robinson:T-DSF robinson:N-DSF">rumah</w>.</q><verse eID="Matt.5.15"/>
 <verse sID="Matt.5.16" osisID="Matt.5.16"/><q who="Jesus"><w 
     src="1" lemma="strong:G3779" morph="robinson:ADV">Demikianlah</w> <w 
@@ -9668,7 +9668,7 @@
     src="3" lemma="strong:G2980" morph="robinson:V-PAP-GSM">berkata-kata</w>, <w 
     src="4" lemma="strong:G2400" morph="robinson:V-2AAM-2S">lihatlah</w>, <w 
     src="5" lemma="strong:G3507" morph="robinson:N-NSF">sebuah awan</w> <w 
-    src="6" lemma="strong:G5460" morph="robinson:A-NSF">yang terang</w> <transChange 
+    src="6" lemma="strong:G5460" morph="robinson:A-NSF">yang bercahaya</w> <transChange 
     type="added">turun</transChange> <w 
     src="7" lemma="strong:G1982" morph="robinson:V-AAI-3S">menaungi</w> <w 
     src="8" lemma="strong:G846" morph="robinson:P-APM">mereka</w>: <w 
