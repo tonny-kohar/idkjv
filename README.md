@@ -15,5 +15,5 @@ Note: this is an ongoing project and currently it is very incomplete.
 | ----------- | ------------ | --------------- |
 | Matthew     | 1:1 - 28:20  | completed       |
 | Mark        | 1:1 - 16:20  | completed       |
-| Luke        | 1:1 - 22:62  | in progress     |
+| Luke        | 1:1 - 22:71  | in progress     |
 | ....        | ....         | not started yet |
