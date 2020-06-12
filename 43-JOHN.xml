@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+        http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.1.xsd">
+<osisText osisIDWork="IDKJV" osisRefWork="bible" xml:lang="id">
+<header>
+<work osisWork="IDKJV">
+    <title>Indonesian King James Version with Strongs Numbers and Morphology</title>
+    <creator role="trl">Tonny Kohar</creator>
+    <type type="OSIS">Bible</type>
+    <identifier type="OSIS">Bible.id.IDKJV.2008</identifier>
+    <rights type="x-copyright">Public Domain</rights>
+    <scope>Luke</scope>
+    <refSystem>Bible</refSystem>
+</work>
+<work osisWork="bible">
+    <type type="OSIS">Bible</type>
+    <refSystem>Bible</refSystem>
+</work>
+<work osisWork="strong">
+    <refSystem>Dict.Strongs</refSystem>
+</work>
+<work osisWork="robinson">
+    <refSystem>Dict.Robinsons</refSystem>
+</work>
+<work osisWork="strongMorph">
+    <refSystem>Dict.strongMorph</refSystem>
+</work>
+</header>
+<div type="book" osisID="Luke" canonical="true">
+<title type="main">INJIL YOHANES</title>
+<chapter sID="John.1" osisID="John.1" chapterTitle="PASAL 1."/>
+<title type="chapter">PASAL 1.</title>
+<verse sID="John.1.1" osisID="John.1.1"/><w 
+    src="1" lemma="strong:G1722" morph="robinson:PREP">Pada</w> <w 
+    src="2" lemma="strong:G746" morph="robinson:N-DSF">mulanya</w> <w 
+    src="3" lemma="strong:G2258" morph="robinson:V-IXI-3S">adalah</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">Firman</w>, <w 
+    src="6" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="7 8" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">Firman</w> <transChange 
+    type="added">itu</transChange> <w 
+    src="9" lemma="strong:G2258" morph="robinson:V-IXI-3S">ada</w> <w 
+    src="10" lemma="strong:G4314" morph="robinson:PREP">bersama dengan</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G2316" morph="robinson:T-ASM robinson:N-ASM">Allah</w>, <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">Firman</w> <transChange 
+    type="added">itu</transChange> <w 
+    src="15" lemma="strong:G2258" morph="robinson:V-IXI-3S">adalah</w> <w 
+    src="14" lemma="strong:G2316" morph="robinson:N-NSM">Allah</w>.<verse eID="John.1.1"/>
+<verse sID="John.1.2" osisID="John.1.2"/><w 
+    src="1" lemma="strong:G3778" morph="robinson:D-NSM">Firman itu</w> <w 
+    src="2" lemma="strong:G2258" morph="robinson:V-IXI-3S">ada</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">pada</w> <w 
+    src="4" lemma="strong:G746" morph="robinson:N-DSF">mulanya</w> <w 
+    src="5" lemma="strong:G4314" morph="robinson:PREP">bersama dengan</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G2316" morph="robinson:T-ASM robinson:N-ASM">Allah</w>.<verse eID="John.1.2"/>
+<verse sID="John.1.3" osisID="John.1.3"/><w 
+    src="1" lemma="strong:G3956" morph="robinson:A-NPN">Segala sesuatu</w> <w 
+    src="4" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadi</w> <w 
+    src="2" lemma="strong:G1223" morph="robinson:PREP">melalui</w>-<w 
+    src="3" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>; <w 
+    src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="6" lemma="strong:G5565" morph="robinson:ADV">tanpa</w>-<w 
+    src="7" lemma="strong:G846" morph="robinson:P-GSM">Nya</w> <w 
+    src="9" lemma="strong:G3761" morph="robinson:ADV">tidak</w> <w 
+    src="10" lemma="strong:G1520" morph="robinson:A-NSN">ada sesuatu pun</w> <w 
+    src="8" lemma="strong:G1096" morph="robinson:V-2ADI-3S">terjadi</w> <w 
+    src="11" lemma="strong:G3739" morph="robinson:R-NSN">yang</w> <w 
+    src="12" lemma="strong:G1096" morph="robinson:V-2RAI-3S">telah terjadi</w>.<verse eID="John.1.3"/>
+<verse sID="John.1.4" osisID="John.1.4"/><w 
+    src="1" lemma="strong:G1722" morph="robinson:PREP">Pada</w>-<w 
+    src="2" lemma="strong:G846" morph="robinson:P-DSM">Nya</w> <w 
+    src="4" lemma="strong:G2258" morph="robinson:V-IXI-3S">ada</w> <w 
+    src="3" lemma="strong:G2222" morph="robinson:N-NSF">hidup</w>; <w 
+    src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G2222" morph="robinson:T-NSF robinson:N-NSF">hidup itu</w> <w 
+    src="8" lemma="strong:G2258" morph="robinson:V-IXI-3S">adalah</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G5457" morph="robinson:T-NSN robinson:N-NSN">terang</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G444" morph="robinson:T-GPM robinson:N-GPM">manusia</w>.<verse eID="John.1.4"/>
+<verse sID="John.1.5" osisID="John.1.5"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2 3" lemma="strong:G3588 strong:G5457" morph="robinson:T-NSN robinson:N-NSN">terang itu</w> <w 
+    src="7" lemma="strong:G5316" morph="robinson:V-PAI-3S">bercahaya</w> <w 
+    src="4" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G4653" morph="robinson:T-DSF robinson:N-DSF">kegelapan</w>; <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G4653" morph="robinson:T-NSF robinson:N-NSF">kegelapan</w> <w 
+    src="12" lemma="strong:G3756" morph="robinson:PRT-N">tidak</w> <w 
+    src="13" lemma="strong:G2638" morph="robinson:V-2AAI-3S">menguasai</w><w 
+    src="11" lemma="strong:G846" morph="robinson:P-ASN">nya</w>.<verse eID="John.1.5"/>
+<verse sID="John.1.6" osisID="John.1.6"/><milestone type="x-p" marker="¶"/><verse eID="John.1.6"/>
+<verse sID="John.1.7" osisID="John.1.7"/><verse eID="John.1.7"/>
+<verse sID="John.1.8" osisID="John.1.8"/><verse eID="John.1.8"/>
+<verse sID="John.1.9" osisID="John.1.9"/><verse eID="John.1.9"/>
+<verse sID="John.1.10" osisID="John.1.10"/><verse eID="John.1.10"/>
+<verse sID="John.1.11" osisID="John.1.11"/><verse eID="John.1.11"/>
+<verse sID="John.1.12" osisID="John.1.12"/><verse eID="John.1.12"/>
+<verse sID="John.1.13" osisID="John.1.13"/><verse eID="John.1.13"/>
+<verse sID="John.1.14" osisID="John.1.14"/><verse eID="John.1.14"/>
+<verse sID="John.1.15" osisID="John.1.15"/><milestone type="x-p" marker="¶"/><verse eID="John.1.15"/>
+<verse sID="John.1.16" osisID="John.1.16"/><verse eID="John.1.16"/>
+<verse sID="John.1.17" osisID="John.1.17"/><verse eID="John.1.17"/>
+<verse sID="John.1.18" osisID="John.1.18"/><verse eID="John.1.18"/>
+<verse sID="John.1.19" osisID="John.1.19"/><milestone type="x-p" marker="¶"/><verse eID="John.1.19"/>
+<verse sID="John.1.20" osisID="John.1.20"/><verse eID="John.1.20"/>
+<verse sID="John.1.21" osisID="John.1.21"/><verse eID="John.1.21"/>
+<verse sID="John.1.22" osisID="John.1.22"/><verse eID="John.1.22"/>
+<verse sID="John.1.23" osisID="John.1.23"/><verse eID="John.1.23"/>
+<verse sID="John.1.24" osisID="John.1.24"/><verse eID="John.1.24"/>
+<verse sID="John.1.25" osisID="John.1.25"/><verse eID="John.1.25"/>
+<verse sID="John.1.26" osisID="John.1.26"/><verse eID="John.1.26"/>
+<verse sID="John.1.27" osisID="John.1.27"/><verse eID="John.1.27"/>
+<verse sID="John.1.28" osisID="John.1.28"/><verse eID="John.1.28"/>
+<verse sID="John.1.29" osisID="John.1.29"/><milestone type="x-p" marker="¶"/><verse eID="John.1.29"/>
+<verse sID="John.1.30" osisID="John.1.30"/><verse eID="John.1.30"/>
+<verse sID="John.1.31" osisID="John.1.31"/><verse eID="John.1.31"/>
+<verse sID="John.1.32" osisID="John.1.32"/><verse eID="John.1.32"/>
+<verse sID="John.1.33" osisID="John.1.33"/><verse eID="John.1.33"/>
+<verse sID="John.1.34" osisID="John.1.34"/><verse eID="John.1.34"/>
+<verse sID="John.1.35" osisID="John.1.35"/><milestone type="x-p" marker="¶"/><verse eID="John.1.35"/>
+<verse sID="John.1.36" osisID="John.1.36"/><verse eID="John.1.36"/>
+<verse sID="John.1.37" osisID="John.1.37"/><verse eID="John.1.37"/>
+<verse sID="John.1.38" osisID="John.1.38"/><verse eID="John.1.38"/>
+<verse sID="John.1.39" osisID="John.1.39"/><verse eID="John.1.39"/>
+<verse sID="John.1.40" osisID="John.1.40"/><verse eID="John.1.40"/>
+<verse sID="John.1.41" osisID="John.1.41"/><verse eID="John.1.41"/>
+<verse sID="John.1.42" osisID="John.1.42"/><verse eID="John.1.42"/>
+<verse sID="John.1.43" osisID="John.1.43"/><milestone type="x-p" marker="¶"/><verse eID="John.1.43"/>
+<verse sID="John.1.44" osisID="John.1.44"/><verse eID="John.1.44"/>
+<verse sID="John.1.45" osisID="John.1.45"/><verse eID="John.1.45"/>
+<verse sID="John.1.46" osisID="John.1.46"/><verse eID="John.1.46"/>
+<verse sID="John.1.47" osisID="John.1.47"/><verse eID="John.1.47"/>
+<verse sID="John.1.48" osisID="John.1.48"/><verse eID="John.1.48"/>
+<verse sID="John.1.49" osisID="John.1.49"/><verse eID="John.1.49"/>
+<verse sID="John.1.50" osisID="John.1.50"/><verse eID="John.1.50"/>
+<verse sID="John.1.51" osisID="John.1.51"/><verse eID="John.1.51"/>
+<chapter eID="John.1"/>
+</div></osisText></osis>
