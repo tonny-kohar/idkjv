@@ -35,7 +35,7 @@
     src="1" lemma="strong:G976" morph="robinson:N-NSF">Daftar</w> <w
     src="2" lemma="strong:G1078" morph="robinson:N-GSF">silsilah</w> <w
     src="3" lemma="strong:G2424" morph="robinson:N-GSM">Yesus</w> <w
-    src="4" lemma="strong:G5547" morph="robinson:N-GSM">Mesias</w>, <w
+    src="4" lemma="strong:G5547" morph="robinson:N-GSM">Kristus</w>, <w
     src="5" lemma="strong:G5207" morph="robinson:N-GSM">anak</w> <w
     src="6" lemma="strong:G1138" morph="robinson:N-PRI">Daud</w>, <w
     src="7" lemma="strong:G5207" morph="robinson:N-GSM">anak</w> <w
@@ -282,7 +282,7 @@
     src="13" lemma="strong:G3588" morph="robinson:T-NSM"/><w
     src="12" lemma="strong:G2424" morph="robinson:N-NSM">Yesus</w>, <w
     src="14" lemma="strong:G3004" morph="robinson:V-PPP-NSM">yang disebut</w> <w
-    src="15" lemma="strong:G5547" morph="robinson:N-NSM">Mesias</w>.<verse eID="Matt.1.16"/>
+    src="15" lemma="strong:G5547" morph="robinson:N-NSM">Kristus</w>.<verse eID="Matt.1.16"/>
 <verse sID="Matt.1.17" osisID="Matt.1.17"/><w 
     src="2" lemma="strong:G3767" morph="robinson:CONJ">Jadi</w> <w
     src="1" lemma="strong:G3956" morph="robinson:A-NPF">semua</w> <w 
@@ -308,7 +308,7 @@
     src="22 23" lemma="strong:G3588 strong:G3350" morph="robinson:T-GSF robinson:N-GSF">pembuangan ke</w> <w
     src="24" lemma="strong:G897" morph="robinson:N-GSF">Babel</w> <w
     src="25" lemma="strong:G2193" morph="robinson:CONJ">sampai</w> <w 
-    src="26 27" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Mesias</w> <transChange
+    src="26 27" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Kristus</w> <transChange
     type="added">adalah</transChange> <w
     src="29" lemma="strong:G1180" morph="robinson:A-NPF">empat belas</w> <w
     src="28" lemma="strong:G1074" morph="robinson:N-NPF">keturunan</w>.<verse eID="Matt.1.17"/></p>
@@ -318,7 +318,7 @@
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Sekarang</w> <w 
     src="5 6" lemma="strong:G3588 strong:G1083" morph="robinson:T-NSF robinson:N-NSF">kelahiran</w> <w
     src="3" lemma="strong:G2424" morph="robinson:N-GSM">Yesus</w> <w
-    src="4" lemma="strong:G5547" morph="robinson:N-GSM">Mesias</w> <w
+    src="4" lemma="strong:G5547" morph="robinson:N-GSM">Kristus</w> <w
     src="8" lemma="strong:G2258" morph="robinson:V-IXI-3S">adalah</w> <w
     src="7" lemma="strong:G3779" morph="robinson:ADV">seperti</w>: <w
     src="10" lemma="strong:G1063" morph="robinson:CONJ">Ketika</w> <w 
@@ -544,7 +544,7 @@
     src="11" lemma="strong:G3844" morph="robinson:PREP">dari</w> <w
     src="12" lemma="strong:G846" morph="robinson:P-GPM">mereka</w> <w
     src="13" lemma="strong:G4226" morph="robinson:PRT-I">dimana</w> <w 
-    src="14 15" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w> <w
+    src="14 15" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w> <w
     src="16" lemma="strong:G1080" morph="robinson:V-PPI-3S">akan dilahirkan</w>.<verse eID="Matt.2.4"/>
 <verse sID="Matt.2.5" osisID="Matt.2.5"/><w 
     src="1" lemma="strong:G3588" morph="robinson:T-NPM"/><w
@@ -5540,7 +5540,7 @@
     src="5" lemma="strong:G1722" morph="robinson:PREP">dari dalam</w> <w 
     src="6 7" lemma="strong:G3588 strong:G1201" morph="robinson:T-DSN robinson:N-DSN">penjara</w> <w 
     src="8 9" lemma="strong:G3588 strong:G2041" morph="robinson:T-APN robinson:N-APN">tentang pekerjaan</w> <w 
-    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Mesias</w>, <w 
+    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Kristus</w>, <w 
     src="12" lemma="strong:G3992" morph="robinson:V-AAP-NSM">ia menyuruh</w> <w 
     src="13" lemma="strong:G1417" morph="robinson:A-NUI">dua</w> <w 
     src="14 15" lemma="strong:G3588 strong:G3101" morph="robinson:T-GPM robinson:N-GPM">murid</w><w 
@@ -9311,7 +9311,7 @@
     src="5" lemma="strong:G2036" morph="robinson:V-2AAI-3S">dan berkata</w>, <w 
     src="6" lemma="strong:G4771" morph="robinson:P-2NS">Engkau</w> <w 
     src="7" lemma="strong:G1488" morph="robinson:V-PXI-2S">adalah</w> <w 
-    src="8 9" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>, <w 
+    src="8 9" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>, <w 
     src="10 11" lemma="strong:G3588 strong:G5207" morph="robinson:T-NSM robinson:N-NSM">Anak</w> <w 
     src="12 13" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w> <w 
     src="14" lemma="strong:G3588" morph="robinson:T-GSM">yang</w> <w 
@@ -9402,7 +9402,7 @@
     src="10" lemma="strong:G846" morph="robinson:P-NSM">Ia</w> <w 
     src="11" lemma="strong:G2076" morph="robinson:V-PXI-3S">adalah</w> <w 
     src="12" lemma="strong:G2424" morph="robinson:N-NSM">Yesus</w> <w 
-    src="13 14" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>.<verse eID="Matt.16.20"/></p>
+    src="13 14" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>.<verse eID="Matt.16.20"/></p>
 <p>
 <verse sID="Matt.16.21" osisID="Matt.16.21"/><w 
     src="1" lemma="strong:G575" morph="robinson:PREP">Sejak</w> <w 
@@ -13316,7 +13316,7 @@
     src="4" lemma="strong:G1380" morph="robinson:V-PAI-3S">pendapat</w><w 
     src="3" lemma="strong:G5213" morph="robinson:P-2DP">mu</w> <w 
     src="5" lemma="strong:G4012" morph="robinson:PREP">tentang</w> <w 
-    src="6 7" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Mesias</w>? <w 
+    src="6 7" lemma="strong:G3588 strong:G5547" morph="robinson:T-GSM robinson:N-GSM">Kristus</w>? <w 
     src="9" lemma="strong:G5207" morph="robinson:N-NSM">Anak</w> <w 
     src="8" lemma="strong:G5101" morph="robinson:I-GSM">siapakah</w> <w 
     src="10" lemma="strong:G2076" morph="robinson:V-PXI-3S">Ia</w>?</q> <w 
@@ -13498,7 +13498,7 @@
     src="10 11" lemma="strong:G3588 strong:G2519" morph="robinson:T-NSM robinson:N-NSM">Guru</w><w 
     src="9" lemma="strong:G5216" morph="robinson:P-2GP">mu</w>, <transChange 
     type="added">yaitu</transChange> <w 
-    src="12 13" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>; <w 
+    src="12 13" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>; <w 
     src="15" lemma="strong:G1161" morph="robinson:CONJ">dan</w> <w 
     src="16" lemma="strong:G5210" morph="robinson:P-2NP">kamu</w> <w 
     src="14" lemma="strong:G3956" morph="robinson:A-NPM">semua</w> <w 
@@ -13534,7 +13534,7 @@
     src="8 9" lemma="strong:G3588 strong:G2519" morph="robinson:T-NSM robinson:N-NSM">Guru</w><w 
     src="6" lemma="strong:G5216" morph="robinson:P-2GP">mu</w>, <transChange 
     type="added">yaitu</transChange> <w 
-    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>.</q><verse eID="Matt.23.10"/>
+    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>.</q><verse eID="Matt.23.10"/>
 <verse sID="Matt.23.11" osisID="Matt.23.11"/><q who="Jesus"><w 
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Tetapi</w> <w 
     src="3" lemma="strong:G3187" morph="robinson:A-NSM-C">yang terbesar</w> <w 
@@ -14149,7 +14149,7 @@
     src="8" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
     src="9" lemma="strong:G1473" morph="robinson:P-1NS">Aku</w> <w 
     src="10" lemma="strong:G1510" morph="robinson:V-PXI-1S">adalah</w> <w 
-    src="11 12" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>; <w 
+    src="11 12" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>; <w 
     src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
     src="15" lemma="strong:G4105" morph="robinson:V-FAI-3P">akan menyesatkan</w> <w 
     src="14" lemma="strong:G4183" morph="robinson:A-APM">banyak</w> <transChange 
@@ -14394,7 +14394,7 @@
     src="5" lemma="strong:G2036" morph="robinson:V-2AAS-3S">berkata</w> <w 
     src="4" lemma="strong:G5213" morph="robinson:P-2DP">kepadamu</w>, <w 
     src="6" lemma="strong:G2400" morph="robinson:V-2AAM-2S">Lihatlah</w>, <w 
-    src="8 9" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w> <w 
     src="7" lemma="strong:G5602" morph="robinson:ADV">disini</w>, <w 
     src="10" lemma="strong:G2228" morph="robinson:PRT">atau</w> <w 
     src="11" lemma="strong:G5602" morph="robinson:ADV">disitu</w>; <w 
@@ -16700,7 +16700,7 @@
     src="21" lemma="strong:G1487" morph="robinson:COND">apakah</w> <w 
     src="22" lemma="strong:G4771" morph="robinson:P-2NS">Engkau</w> <w 
     src="23" lemma="strong:G1488" morph="robinson:V-PXI-2S">adalah</w> <w 
-    src="24 25" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>, <w 
+    src="24 25" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>, <w 
     src="26 27" lemma="strong:G3588 strong:G5207" morph="robinson:T-NSM robinson:N-NSM">Anak</w> <w 
     src="28 29" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">Allah</w>.<verse eID="Matt.26.63"/>
 <verse sID="Matt.26.64" osisID="Matt.26.64"/><w 
@@ -16773,7 +16773,7 @@
     src="1" lemma="strong:G3004" morph="robinson:V-PAP-NPM">Berkata</w>, <w 
     src="2" lemma="strong:G4395" morph="robinson:V-AAM-2S">Bernubuatlah</w> <w 
     src="3" lemma="strong:G2254" morph="robinson:P-1DP">kepada kami</w>, <w 
-    src="4" lemma="strong:G5547" morph="robinson:N-VSM">hai Mesias</w>, <w 
+    src="4" lemma="strong:G5547" morph="robinson:N-VSM">hai Kristus</w>, <w 
     src="5" lemma="strong:G5101" morph="robinson:I-NSM">Siapakah</w> <w 
     src="6" lemma="strong:G2076" morph="robinson:V-PXI-3S">yang</w> <w 
     src="7" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
@@ -17232,7 +17232,7 @@
     src="8" lemma="strong:G2424" morph="robinson:N-ASM">terhadap Yesus</w> <w 
     src="9" lemma="strong:G3588" morph="robinson:T-ASM"/> <w 
     src="10" lemma="strong:G3004" morph="robinson:V-PPP-ASM">yang disebut</w> <w 
-    src="11" lemma="strong:G5547" morph="robinson:N-ASM">Mesias</w>? <transChange 
+    src="11" lemma="strong:G5547" morph="robinson:N-ASM">Kristus</w>? <transChange 
     type="added">Mereka</transChange> <w 
     src="14" lemma="strong:G3956" morph="robinson:A-NPM">semua</w> <w 
     src="12" lemma="strong:G3004" morph="robinson:V-PAI-3P">berkata kepada</w><w 

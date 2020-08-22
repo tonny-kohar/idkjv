@@ -316,7 +316,7 @@
     src="11" lemma="strong:G1473" morph="robinson:P-1NS">Aku</w> <w 
     src="9" lemma="strong:G3756" morph="robinson:PRT-N">bukan</w><w 
     src="10" lemma="strong:G1510" morph="robinson:V-PXI-1S">lah</w> <w 
-    src="12 13" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>.<verse eID="John.1.20"/>
+    src="12 13" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>.<verse eID="John.1.20"/>
 <verse sID="John.1.21" osisID="John.1.21"/><w 
     src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
     src="2" lemma="strong:G2065" morph="robinson:V-AAI-3P">mereka bertanya</w> <w 
@@ -385,7 +385,7 @@
     src="11" lemma="strong:G4771" morph="robinson:P-2NS">engkau</w> <w 
     src="13" lemma="strong:G1488" morph="robinson:V-PXI-2S">adalah</w> <w 
     src="12" lemma="strong:G3756" morph="robinson:PRT-N">bukan</w> <w 
-    src="14 15" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>, <w 
+    src="14 15" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>, <w 
     src="16" lemma="strong:G3777" morph="robinson:CONJ">maupun</w> <w 
     src="17" lemma="strong:G2243" morph="robinson:N-NSM">Elia</w>, <w 
     src="18" lemma="strong:G3777" morph="robinson:CONJ">maupun</w> <w 
@@ -1728,7 +1728,7 @@
     src="9" lemma="strong:G1473" morph="robinson:P-1NS">aku</w> <w 
     src="7" lemma="strong:G3756" morph="robinson:PRT-N">bukan</w> <w 
     src="8" lemma="strong:G1510" morph="robinson:V-PXI-1S">lah</w> <w 
-    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Mesias</w>, <w 
+    src="10 11" lemma="strong:G3588 strong:G5547" morph="robinson:T-NSM robinson:N-NSM">Kristus</w>, <w 
     src="12" lemma="strong:G235" morph="robinson:CONJ">melainkan</w> <w 
     src="13" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
     src="15" lemma="strong:G1510" morph="robinson:V-PXI-1S">aku</w> <w 
@@ -2249,8 +2249,31 @@
     src="9" lemma="strong:G4151" morph="robinson:N-DSN">roh</w> <w 
     src="10" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
     src="11" lemma="strong:G225" morph="robinson:N-DSF">kebenaran</w>.</q><verse eID="John.4.24"/>
-<verse sID="John.4.25" osisID="John.4.25"/><verse eID="John.4.25"/>
-<verse sID="John.4.26" osisID="John.4.26"/><verse eID="John.4.26"/>
+<verse sID="John.4.25" osisID="John.4.25"/><w 
+    src="3 4" lemma="strong:G3588 strong:G1135" morph="robinson:T-NSF robinson:N-NSF">Perempuan itu</w> <w 
+    src="1" lemma="strong:G3004" morph="robinson:V-PAI-3S">berkata</w> <w 
+    src="2" lemma="strong:G846" morph="robinson:P-DSM">kepada-Nya</w>, <w 
+    src="5" lemma="strong:G1492" morph="robinson:V-RAI-1S">aku tahu</w> <w 
+    src="6" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
+    src="7" lemma="strong:G3323" morph="robinson:N-NSM">Mesias</w> <w 
+    src="8" lemma="strong:G2064" morph="robinson:V-PNI-3S">sedang datang</w>, <w 
+    src="9 10" lemma="strong:G3588 strong:G3004" morph="robinson:T-NSM robinson:V-PPP-NSM">yang disebut</w> <w 
+    src="11" lemma="strong:G5547" morph="robinson:N-NSM">Kristus</w>: <w 
+    src="12" lemma="strong:G3752" morph="robinson:CONJ">apabila</w> <w 
+    src="14" lemma="strong:G1565" morph="robinson:D-NSM">Ia</w> <w 
+    src="13" lemma="strong:G2064" morph="robinson:V-2AAS-3S">datang</w>, <w 
+    src="15" lemma="strong:G312" morph="robinson:V-FAI-3S">Ia akan memberitahu</w> <w 
+    src="16" lemma="strong:G2254" morph="robinson:P-1DP">kami</w> <w 
+    src="17" lemma="strong:G3956" morph="robinson:A-APN">segala sesuatu</w>.<verse eID="John.4.25"/>
+<verse sID="John.4.26" osisID="John.4.26"/><w 
+    src="3 4" lemma="strong:G3588 strong:G2424" morph="robinson:T-NSM robinson:N-NSM">Yesus</w> <w 
+    src="1" lemma="strong:G3004" morph="robinson:V-PAI-3S">berkata</w> <w 
+    src="2" lemma="strong:G846" morph="robinson:P-DSF">kepadanya</w>, <q who="Jesus" marker=""><w 
+    src="5" lemma="strong:G1473" morph="robinson:P-1NS">Aku</w> <w 
+    src="6" lemma="strong:G1510" morph="robinson:V-PXI-1S">lah</w> <transChange 
+    type="added">Ia</transChange>, <w 
+    src="7 8" lemma="strong:G3588 strong:G2980" morph="robinson:T-NSM robinson:V-PAP-NSM">yang sedang berbicara</w> <w 
+    src="9" lemma="strong:G4671" morph="robinson:P-2DS">kepada engkau</w>.</q><verse eID="John.4.26"/>
 <verse sID="John.4.27" osisID="John.4.27"/><milestone type="x-p" marker="¶"/><verse eID="John.4.27"/>
 <verse sID="John.4.28" osisID="John.4.28"/><verse eID="John.4.28"/>
 <verse sID="John.4.29" osisID="John.4.29"/><verse eID="John.4.29"/>
