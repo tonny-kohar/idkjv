@@ -8093,5 +8093,55 @@
     src="13" lemma="strong:G2076" morph="robinson:V-PXI-3S">ada</w> <w 
     src="14" lemma="strong:G1722" morph="robinson:PREP">pada</w><w 
     src="15" lemma="strong:G846" morph="robinson:P-DSM">nya</w>.</q><verse eID="John.11.10"/>
+<verse osisID="John.11.11" sID="John.11.11"/><w 
+    src="1" lemma="strong:G5023" morph="robinson:D-APN">Hal-hal ini</w> <w 
+    src="2" lemma="strong:G2036" morph="robinson:V-2AAI-3S">Ia katakan</w>: <w 
+    src="3" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="4" lemma="strong:G3326" morph="robinson:PREP">setelah</w> <w 
+    src="5" lemma="strong:G5124" morph="robinson:D-ASN">itu</w> <w 
+    src="6" lemma="strong:G3004" morph="robinson:V-PAI-3S">Ia berkata</w> <w 
+    src="7" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w>, <q who="Jesus" marker=""><w 
+    src="9 10" lemma="strong:G3588 strong:G5384" morph="robinson:T-NSM robinson:A-NSM">Sahabat</w> <w 
+    src="11" lemma="strong:G2257" morph="robinson:P-1GP">kita</w> <w 
+    src="8" lemma="strong:G2976" morph="robinson:N-NSM">Lazarus</w> <w 
+    src="12" lemma="strong:G2837" morph="robinson:V-RPI-3S">telah tertidur</w>; <w 
+    src="13" lemma="strong:G235" morph="robinson:CONJ">tetapi</w> <w 
+    src="14" lemma="strong:G4198" morph="robinson:V-PNI-1S">Aku pergi</w>, <w 
+    src="15" lemma="strong:G2443" morph="robinson:CONJ">supaya</w> <w 
+    src="16" lemma="strong:G1852" morph="robinson:V-AAS-1S">Aku dapat membangunkan</w><w 
+    src="17" lemma="strong:G846" morph="robinson:P-ASM">nya</w>.</q><verse eID="John.11.11"/>
+<verse osisID="John.11.12" sID="John.11.12"/><w 
+    src="2" lemma="strong:G3767" morph="robinson:CONJ">Jadi</w> <w 
+    src="1" lemma="strong:G2036" morph="robinson:V-2AAI-3P">kata</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G3101" morph="robinson:T-NPM robinson:N-NPM">murid-murid</w>-<w 
+    src="5" lemma="strong:G846" morph="robinson:P-GSM">Nya</w>, <w 
+    src="6" lemma="strong:G2962" morph="robinson:N-VSM">Tuhan</w>, <w 
+    src="7" lemma="strong:G1487" morph="robinson:COND">jikalau</w> <w 
+    src="8" lemma="strong:G2837" morph="robinson:V-RPI-3S">ia tertidur</w>, <w 
+    src="9" lemma="strong:G4982" morph="robinson:V-FPI-3S">ia akan sembuh</w>.<verse eID="John.11.12"/>
+<verse osisID="John.11.13" sID="John.11.13"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G2424" morph="robinson:T-NSM robinson:N-NSM">Yesus</w> <w 
+    src="1" lemma="strong:G2046" morph="robinson:V-LAI-3S-ATT">berkata</w> <w 
+    src="5" lemma="strong:G4012" morph="robinson:PREP">tentang</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G2288" morph="robinson:T-GSM robinson:N-GSM">kematian</w><w 
+    src="8" lemma="strong:G846" morph="robinson:P-GSM">nya</w>: <w 
+    src="10" lemma="strong:G1161" morph="robinson:CONJ">Namun</w> <w 
+    src="9" lemma="strong:G1565" morph="robinson:D-NPM">mereka</w> <w 
+    src="11" lemma="strong:G1380" morph="robinson:V-AAI-3P">berpikir</w> <w 
+    src="12" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
+    src="18" lemma="strong:G3004" morph="robinson:V-PAI-3S">Ia berkata</w> <w 
+    src="13" lemma="strong:G4012" morph="robinson:PREP">tentang</w> <w 
+    src="14 15" lemma="strong:G3588 strong:G2838" morph="robinson:T-GSF robinson:N-GSF">beristirahat</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G5258" morph="robinson:T-GSM robinson:N-GSM">dalam tidur</w>.<verse eID="John.11.13"/>
+<verse osisID="John.11.14" sID="John.11.14"/><w 
+    src="2" lemma="strong:G3767" morph="robinson:CONJ">Jadi</w> <w 
+    src="1" lemma="strong:G5119" morph="robinson:ADV">kemudian</w>  <w 
+    src="3" lemma="strong:G2036" morph="robinson:V-2AAI-3S">berkatalah</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G2424" morph="robinson:T-NSM robinson:N-NSM">Yesus</w> <w 
+    src="4" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w> <w 
+    src="7" lemma="strong:G3954" morph="robinson:N-DSF">dengan terus terang</w>, <q who="Jesus" marker=""><w 
+    src="8" lemma="strong:G2976" morph="robinson:N-NSM">Lazarus</w> <w 
+    src="9" lemma="strong:G599" morph="robinson:V-2AAI-3S">sudah mati</w>.<verse eID="John.11.14"/>
 <chapter eID="John.11"/>
 </div></osisText></osis>
