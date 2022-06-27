@@ -7592,7 +7592,7 @@
     src="17 19" lemma="strong:G3588 strong:G2215" morph="robinson:T-NPN robinson:N-NPN">lalang</w> <w 
     src="20" lemma="strong:G1526" morph="robinson:V-PXI-3P">adalah</w> <w 
     src="21 22" lemma="strong:G3588 strong:G5207" morph="robinson:T-NPM robinson:N-NPM">anak-anak</w> <w 
-    src="23 24" lemma="strong:G3588 strong:G4190" morph="robinson:T-GSM robinson:A-GSM">si jahat</w>;</q><verse eID="Matt.13.38"/>
+    src="23 24" lemma="strong:G3588 strong:G4190" morph="robinson:T-GSM robinson:A-GSM">si jahat</w>;<verse eID="Matt.13.38"/>
 <verse sID="Matt.13.39" osisID="Matt.13.39"/><w 
     src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
     src="1" lemma="strong:G3588" morph="robinson:T-NSM"/><w 
@@ -7669,9 +7669,9 @@
     src="14 15" lemma="strong:G3588 strong:G2192" morph="robinson:T-NSM robinson:V-PAP-NSM">Yang mempunyai</w> <w 
     src="16" lemma="strong:G3775" morph="robinson:N-APN">telinga</w> <w 
     src="17" lemma="strong:G191" morph="robinson:V-PAN">untuk mendengar</w>, <w 
-    src="18" lemma="strong:G191" morph="robinson:V-PAM-3S">hendaklah mendengarkan</w>.<verse eID="Matt.13.43"/></p>
+    src="18" lemma="strong:G191" morph="robinson:V-PAM-3S">hendaklah mendengarkan</w></q>.<verse eID="Matt.13.43"/></p>
 <p>
-<verse sID="Matt.13.44" osisID="Matt.13.44"/><w 
+<verse sID="Matt.13.44" osisID="Matt.13.44"/><q who="Jesus"><w 
     src="1" lemma="strong:G3825" morph="robinson:ADV">Lagi pula</w>, <w 
     src="4 5" lemma="strong:G3588 strong:G932" morph="robinson:T-NSF robinson:N-NSF">kerajaan</w> <w 
     src="6 7" lemma="strong:G3588 strong:G3772" morph="robinson:T-GPM robinson:N-GPM">surga</w> <w 
@@ -7680,8 +7680,6 @@
     src="8" lemma="strong:G2344" morph="robinson:N-DSM">harta</w> <w 
     src="9" lemma="strong:G2928" morph="robinson:V-RPP-DSM">tersembunyi</w> <w
     src="10" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
-
-
     src="11 12" lemma="strong:G3588 strong:G68" morph="robinson:T-DSM robinson:N-DSM">ladang</w>; <w 
     src="13" lemma="strong:G3739" morph="robinson:R-ASM">yang</w> <w 
     src="14" lemma="strong:G2147" morph="robinson:V-2AAP-NSM">ditemukan</w> <w 
@@ -7701,7 +7699,7 @@
     src="28" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
     src="29" lemma="strong:G59" morph="robinson:V-PAI-3S">membeli</w> <w 
     src="30 31" lemma="strong:G3588 strong:G68" morph="robinson:T-ASM robinson:N-ASM">ladang</w> <w 
-    src="32" lemma="strong:G1565" morph="robinson:D-ASM">itu</w>.<verse eID="Matt.13.44"/></p>
+    src="32" lemma="strong:G1565" morph="robinson:D-ASM">itu</w>.</q><verse eID="Matt.13.44"/></p>
 <p>
 <verse sID="Matt.13.45" osisID="Matt.13.45"/><q who="Jesus"><w 
     src="1" lemma="strong:G3825" morph="robinson:ADV">Lagi pula</w>, <w 
