@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+        http://www.bibltechnolgologies.net/OSIS/osisCore.2.1.1.xsd">
+<osisText osisIDWork="IDKJV" osisRefWork="bible" xml:lang="id">
+<header>
+<work osisWork="IDKJV">
+    <title>Indonesian King James Version with Strongs Numbers and Morphology</title>
+    <creator role="trl">Tonny Kohar</creator>
+    <type type="OSIS">Bible</type>
+    <identifier type="OSIS">Bible.id.IDKJV.2008</identifier>
+    <rights type="x-copyright">Public Domain</rights>
+    <scope>Acts</scope>
+    <refSystem>Bible</refSystem>
+</work>
+<work osisWork="bible">
+    <type type="OSIS">Bible</type>
+    <refSystem>Bible</refSystem>
+</work>
+<work osisWork="strong">
+    <refSystem>Dict.Strongs</refSystem>
+</work>
+<work osisWork="robinson">
+    <refSystem>Dict.Robinsons</refSystem>
+</work>
+<work osisWork="strongMorph">
+    <refSystem>Dict.strongMorph</refSystem>
+</work>
+</header>
+<div type="book" osisID="Acts" canonical="true">
+<title type="main">KISAH PARA RASUL</title>
+<chapter sID="Acts.1" osisID="Acts.1" chapterTitle="PASAL 1."/>
+<title type="chapter">PASAL 1.</title>
+<verse osisID="Acts.1.1" sID="Acts.1.1"/><w 
+    src="2" lemma="strong:G3303" morph="robinson:PRT">Sesungguhnya</w> <w 
+    src="5" lemma="strong:G4160" morph="robinson:V-AMI-1S">aku telah membuat</w> <w 
+    src="4" lemma="strong:G3056" morph="robinson:N-ASM">risalah</w> <w 
+    src="1 3" lemma="strong:G3588 strong:G4413" morph="robinson:T-ASM robinson:A-ASM">yang pertama</w>, <w 
+    src="8" lemma="strong:G5599" morph="robinson:INJ">hai</w> <w 
+    src="9" lemma="strong:G2321" morph="robinson:N-VSM">teofilus</w>, <w 
+    src="6" lemma="strong:G4012" morph="robinson:PREP">mengenai</w> <w 
+    src="7" lemma="strong:G3956" morph="robinson:A-GPN">semua</w> <w 
+    src="10" lemma="strong:G3739" morph="robinson:R-GPN">yang</w> <w 
+    src="12 13" lemma="strong:G3588 strong:G2424" morph="robinson:T-NSM robinson:N-NSM">Yesus</w> <w 
+    src="11" lemma="strong:G756" morph="robinson:V-ADI-3S">mulai</w>  <w 
+    src="14" lemma="strong:G4160" morph="robinson:V-PAN">kerjakan</w> <w 
+    src="16" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="15" lemma="strong:G5037" morph="robinson:PRT">juga</w> <w 
+    src="17" lemma="strong:G1321" morph="robinson:V-PAN">ajarkan</w>,<verse eID="Acts.1.1"/>
+<verse osisID="Acts.1.2" sID="Acts.1.2"/><w 
+    src="1" lemma="strong:G891" morph="robinson:PREP">sampai</w> <w 
+    src="3" lemma="strong:G2250" morph="robinson:N-GSF">pada hari</w> <w 
+    src="2" lemma="strong:G3739" morph="robinson:R-GSF">dimana</w> <w 
+    src="12" lemma="strong:G353" morph="robinson:V-API-3S">ia diangkat</w>, <w 
+    src="4" lemma="strong:G1781" morph="robinson:V-ANP-NSM">setelah ia memberi perintah</w> <w 
+    src="7" lemma="strong:G1223" morph="robinson:PREP">melalui</w> <w 
+    src="8" lemma="strong:G4151" morph="robinson:N-GSN">roh</w> <w 
+    src="9" lemma="strong:G40" morph="robinson:A-GSN">kudus</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G652" morph="robinson:T-DPM robinson:N-DPM">kepada rasul-rasul</w> <w 
+    src="10" lemma="strong:G3739" morph="robinson:R-APM">yang</w> <w 
+    src="11" lemma="strong:G1586" morph="robinson:V-AMI-3S">telah ia pilih</w>:<verse eID="Acts.1.2"/>
+<verse osisID="Acts.1.3" sID="Acts.1.3"/><w 
+    src="1" lemma="strong:G3739" morph="robinson:R-DPM">Yang kepada mereka</w> <w 
+    src="2" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="3" lemma="strong:G3936" morph="robinson:V-AAI-3S">ia menunjukkan</w> <w 
+    src="4" lemma="strong:G1438" morph="robinson:F-3ASM">dirinya sendiri</w> <w 
+    src="5" lemma="strong:G2198" morph="robinson:V-PAP-ASM">hidup</w> <w 
+    src="6" lemma="strong:G3326" morph="robinson:PREP">setelah</w> <w 
+    src="7 8" lemma="strong:G3588 strong:G3958" morph="robinson:T-ASN robinson:V-2AAN">penderitaan</w>-<w 
+    src="9" lemma="strong:G846" morph="robinson:P-ASM">nya</w> <w 
+    src="10" lemma="strong:G1722" morph="robinson:PREP">dengan</w> <w 
+    src="11" lemma="strong:G4183" morph="robinson:A-DPN">banyak</w> <w 
+    src="12" lemma="strong:G5039" morph="robinson:N-DPN">bukti-bukti</w>, <w 
+    src="16" lemma="strong:G3700" morph="robinson:V-PNP-NSM">yang telah dilihat</w> <w 
+    src="13" lemma="strong:G1223" morph="robinson:PREP">oleh</w> <w 
+    src="17" lemma="strong:G846" morph="robinson:P-DPM">mereka</w> <w 
+    src="15" lemma="strong:G5062" morph="robinson:A-NUI">empat puluh</w> <w 
+    src="14" lemma="strong:G2250" morph="robinson:N-GPF">hari</w>, <w 
+    src="18" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="19" lemma="strong:G3004" morph="robinson:V-PAP-NSM">mengatakan</w> <w 
+    src="20" lemma="strong:G3588" morph="robinson:T-APN"/> <w 
+    src="21" lemma="strong:G4012" morph="robinson:PREP">hal-hal mengenai</w> <w 
+    src="22 23" lemma="strong:G3588 strong:G932" morph="robinson:T-GSF robinson:N-GSF">kerajaan</w> <w 
+    src="24 25" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">allah</w>:<verse eID="Acts.1.3"/>
+<chapter eID="Acts.1"/>
+</div></osisText></osis>

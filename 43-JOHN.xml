@@ -11,7 +11,7 @@
     <type type="OSIS">Bible</type>
     <identifier type="OSIS">Bible.id.IDKJV.2008</identifier>
     <rights type="x-copyright">Public Domain</rights>
-    <scope>Luke</scope>
+    <scope>John</scope>
     <refSystem>Bible</refSystem>
 </work>
 <work osisWork="bible">
@@ -28,7 +28,7 @@
     <refSystem>Dict.strongMorph</refSystem>
 </work>
 </header>
-<div type="book" osisID="Luke" canonical="true">
+<div type="book" osisID="John" canonical="true">
 <title type="main">INJIL YOHANES</title>
 <chapter sID="John.1" osisID="John.1" chapterTitle="PASAL 1."/>
 <title type="chapter">PASAL 1.</title>
