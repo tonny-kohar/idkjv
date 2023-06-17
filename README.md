@@ -17,5 +17,5 @@ Note: this is an ongoing project and currently it is very incomplete.
 | Mark        | 1:1 - 16:20  | completed       |
 | Luke        | 1:1 - 24:53  | completed       |
 | John        | 1:1 - 21:25  | completed       |
-| Acts        | 1:1 - 2:13   | in progress     |
+| Acts        | 1:1 - 2:19   | in progress     |
 | ....        | ....         | not started yet |
