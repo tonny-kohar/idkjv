@@ -1498,23 +1498,23 @@
     src="25" lemma="strong:G4819" morph="robinson:V-RAP-DSN">terjadi</w> <w 
     src="26" lemma="strong:G846" morph="robinson:P-DSM">padanya</w>.<verse eID="Acts.3.10"/>
 <verse osisID="Acts.3.11" sID="Acts.3.11"/><w 
-    src="2" lemma="strong:G1161" morph="robinson:CONJ">And</w> as <w 
-    src="5" lemma="strong:G5560" morph="robinson:A-GPM">the lame</w> <w 
-    src="1" lemma="strong:G2902" morph="robinson:V-PAP-GSM" type="x-split" subType="x-23">man</w> <w 
-    src="3 4" lemma="strong:G3588 strong:G2390" morph="robinson:T-GSM robinson:V-APP-GSM">which was healed</w> <w 
-    src="1" lemma="strong:G2902" morph="robinson:V-PAP-GSM">held</w> <w 
-    src="6 7" lemma="strong:G3588 strong:G4074" morph="robinson:T-ASM robinson:N-ASM">Peter</w> <w 
-    src="8" lemma="strong:G2532" morph="robinson:CONJ">and</w> <w 
-    src="9" lemma="strong:G2491" morph="robinson:N-ASM">John</w>, <w 
-    src="13" lemma="strong:G3956" morph="robinson:A-NSM">all</w> <w 
-    src="14 15" lemma="strong:G3588 strong:G2992" morph="robinson:T-NSM robinson:N-NSM">the people</w> <w 
-    src="10" lemma="strong:G4936" morph="robinson:V-2AAI-3S">ran together</w> <w 
-    src="11" lemma="strong:G4314" morph="robinson:PREP">unto</w> <w 
-    src="12" lemma="strong:G846" morph="robinson:P-APM">them</w> <w 
-    src="16" lemma="strong:G1909" morph="robinson:PREP">in</w> <w 
-    src="17 18" lemma="strong:G3588 strong:G4745" morph="robinson:T-DSF robinson:N-DSF">the porch</w> <w 
-    src="19 20" lemma="strong:G3588 strong:G2564" morph="robinson:T-DSF robinson:V-PPP-DSF">that is called</w> <w 
-    src="21" lemma="strong:G4672" morph="robinson:N-GSM">Solomon's</w>, <w 
-    src="22" lemma="strong:G1569" morph="robinson:A-NPM">greatly wondering</w>.<verse eID="Acts.3.11"/>
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="5" lemma="strong:G5560" morph="robinson:A-GPM">orang lumpuh</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G2390" morph="robinson:T-GSM robinson:V-APP-GSM">yang baru sembuh</w> <transChange 
+    type="added">itu</transChange> <w 
+    src="1" lemma="strong:G2902" morph="robinson:V-PAP-GSM">memegang</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G4074" morph="robinson:T-ASM robinson:N-ASM">petrus</w> <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G2491" morph="robinson:N-ASM">yohanes</w>, <w 
+    src="13" lemma="strong:G3956" morph="robinson:A-NSM">semua</w> <w 
+    src="14 15" lemma="strong:G3588 strong:G2992" morph="robinson:T-NSM robinson:N-NSM">orang</w> <w 
+    src="10" lemma="strong:G4936" morph="robinson:V-2AAI-3S">segera berlari</w> <w 
+    src="11" lemma="strong:G4314" morph="robinson:PREP">ke arah</w> <w 
+    src="12" lemma="strong:G846" morph="robinson:P-APM">mereka</w> <w 
+    src="16" lemma="strong:G1909" morph="robinson:PREP">ke</w> <w 
+    src="17 18" lemma="strong:G3588 strong:G4745" morph="robinson:T-DSF robinson:N-DSF">serambi</w> <w 
+    src="19 20" lemma="strong:G3588 strong:G2564" morph="robinson:T-DSF robinson:V-PPP-DSF">yang disebut</w> <w 
+    src="21" lemma="strong:G4672" morph="robinson:N-GSM">serambi salomo</w>, <w 
+    src="22" lemma="strong:G1569" morph="robinson:A-NPM">dengan terheran-heran</w>.<verse eID="Acts.3.11"/>
 <chapter eID="Acts.3"/>
 </div></osisText></osis>
