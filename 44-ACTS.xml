@@ -2147,5 +2147,41 @@
     src="6" lemma="strong:G1492" morph="robinson:V-2AAI-1P">kami telah lihat</w> <w 
     src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
     src="8" lemma="strong:G191" morph="robinson:V-AAI-1P">dengar</w>.<verse eID="Acts.4.20"/>
+<verse osisID="Acts.4.21" sID="Acts.4.21"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
+    src="3" lemma="strong:G4324" morph="robinson:V-AMP-NPM">setelah mengancam lebih jauh</w>, <w 
+    src="4" lemma="strong:G630" morph="robinson:V-AAI-3P">mereka melepaskan</w> <w 
+    src="5" lemma="strong:G846" morph="robinson:P-APM">keduanya</w>, <transChange 
+    type="added">setelah</transChange> <w 
+    src="6" lemma="strong:G3367" morph="robinson:A-ASN">tidak</w> <w 
+    src="7" lemma="strong:G2147" morph="robinson:V-PAP-NPM">menemukan</w> <w 
+    src="9" lemma="strong:G4459" morph="robinson:ADV-I">cara bagaimana</w> <w 
+    src="8" lemma="strong:G3588" morph="robinson:T-ASN"/> <w 
+    src="10" lemma="strong:G2849" morph="robinson:V-AMS-3P">mereka dapat menghukum</w> <w 
+    src="11" lemma="strong:G846" morph="robinson:P-APM">keduanya</w>, <w 
+    src="12" lemma="strong:G1223" morph="robinson:PREP">karena</w> <w 
+    src="13 14" lemma="strong:G3588 strong:G2992" morph="robinson:T-ASM robinson:N-ASM">orang-orang</w>: <w 
+    src="15" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
+    src="16" lemma="strong:G3956" morph="robinson:A-NPM">semua</w> <transChange 
+    type="added">orang</transChange> <w 
+    src="17" lemma="strong:G1392" morph="robinson:V-IAI-3P">memuliakan</w> <w 
+    src="18 19" lemma="strong:G3588 strong:G2316" morph="robinson:T-ASM robinson:N-ASM">allah</w> <w 
+    src="20" lemma="strong:G1909" morph="robinson:PREP">atas</w> <w 
+    src="21" lemma="strong:G3588" morph="robinson:T-DSN">apa yang</w> <w 
+    src="22" lemma="strong:G1096" morph="robinson:V-2RAP-DSN">telah terjadi</w>.<verse eID="Acts.4.21"/>
+<verse osisID="Acts.4.22" sID="Acts.4.22"/><w 
+    src="2" lemma="strong:G1063" morph="robinson:CONJ">Sebab</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G444" morph="robinson:T-NSM robinson:N-NSM">orang itu</w> <w 
+    src="3" lemma="strong:G2258" morph="robinson:V-IXI-3S">telah</w> <w 
+    src="4" lemma="strong:G4119" morph="robinson:A-GPN-C">lebih dari</w> <w 
+    src="5" lemma="strong:G5062" morph="robinson:A-NUI">empat puluh</w> <w 
+    src="1" lemma="strong:G2094" morph="robinson:N-GPN">tahun</w>, <w 
+    src="9" lemma="strong:G3739" morph="robinson:R-ASM">yang</w> <w 
+    src="8" lemma="strong:G1909" morph="robinson:PREP">atasnya</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G4592" morph="robinson:T-NSN robinson:N-NSN">tanda</w> <w 
+    src="14 15" lemma="strong:G3588 strong:G2392" morph="robinson:T-GSF robinson:N-GSF">kesembuhan</w> <w 
+    src="13" lemma="strong:G5124" morph="robinson:D-NSN">ini</w> <w 
+    src="10" lemma="strong:G1096" morph="robinson:V-LAI-3S">terjadi</w>.<verse eID="Acts.4.22"/>
 <chapter eID="Acts.4"/>
 </div></osisText></osis>
