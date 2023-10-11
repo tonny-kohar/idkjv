@@ -3164,5 +3164,36 @@
     src="17" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
     src="18" lemma="strong:G630" morph="robinson:V-AAI-3P">membebaskan</w> <w 
     src="19" lemma="strong:G846" morph="robinson:P-APM">mereka</w>.<verse eID="Acts.5.40"/>
+<verse osisID="Acts.5.41" sID="Acts.5.41"/><milestone type="x-p" marker="¶"/><w 
+    src="2" lemma="strong:G3303" morph="robinson:PRT"/><w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NPM"/><w 
+    src="3" lemma="strong:G3767" morph="robinson:CONJ">Maka</w> <w 
+    src="4" lemma="strong:G4198" morph="robinson:V-INI-3P">mereka pergi</w> <w 
+    src="6" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="7" lemma="strong:G4383" morph="robinson:N-GSN">hadapan</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G4892" morph="robinson:T-GSN robinson:N-GSN">mahkamah agama</w> <w 
+    src="5" lemma="strong:G5463" morph="robinson:V-PAP-NPM">dengan bersukacita</w> <w 
+    src="10" lemma="strong:G3754" morph="robinson:CONJ">karena</w> <w 
+    src="15" lemma="strong:G2661" morph="robinson:V-API-3P">mereka telah dianggap</w> <w 
+    src="16" lemma="strong:G818" morph="robinson:V-APN">untuk dipermalukan</w> <w 
+    src="11" lemma="strong:G5228" morph="robinson:PREP">atas</w> <w 
+    src="12 13" lemma="strong:G3588 strong:G3686" morph="robinson:T-GSN robinson:N-GSN">nama</w>-<w 
+    src="14" lemma="strong:G846" morph="robinson:P-GSM">nya</w>.<verse eID="Acts.5.41"/>
+<verse osisID="Acts.5.42" sID="Acts.5.42"/><w 
+    src="2" lemma="strong:G5037" morph="robinson:PRT">Dan</w> <w 
+    src="3" lemma="strong:G2250" morph="robinson:N-ASF">setiap hari</w> <w 
+    src="4" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G2411" morph="robinson:T-DSN robinson:N-DSN">bait suci</w>, <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="8" lemma="strong:G2596" morph="robinson:PREP">di</w> <w 
+    src="1" lemma="strong:G3956" morph="robinson:A-ASF">setiap</w> <w 
+    src="9" lemma="strong:G3624" morph="robinson:N-ASM">rumah</w>, <w 
+    src="10" lemma="strong:G3756" morph="robinson:PRT-N">mereka tidak</w> <w 
+    src="11" lemma="strong:G3973" morph="robinson:V-IMI-3P">berhenti</w> <w 
+    src="12" lemma="strong:G1321" morph="robinson:V-PAP-NPM">mengajar</w> <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="14" lemma="strong:G2097" morph="robinson:V-PMP-NPM">memberitakan</w> <w 
+    src="15" lemma="strong:G2424" morph="robinson:N-ASM">yesus</w> <w 
+    src="16 17" lemma="strong:G3588 strong:G5547" morph="robinson:T-ASM robinson:N-ASM">kristus</w>.<verse eID="Acts.5.42"/>
 <chapter eID="Acts.5"/>
 </div></osisText></osis>
