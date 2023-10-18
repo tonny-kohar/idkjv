@@ -3262,5 +3262,45 @@
     src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
     src="6 7" lemma="strong:G3588 strong:G1248" morph="robinson:T-DSF robinson:N-DSF">pelayanan</w> <w 
     src="8 9" lemma="strong:G3588 strong:G3056" morph="robinson:T-GSM robinson:N-GSM">firman</w>.<verse eID="Acts.6.4"/>
+<verse osisID="Acts.6.5" sID="Acts.6.5"/><milestone type="x-p" marker="¶"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">perkataan itu</w> <w 
+    src="2" lemma="strong:G700" morph="robinson:V-AAI-3S">menyenangkan</w> <w 
+    src="5" lemma="strong:G1799" morph="robinson:ADV">di hadapan</w> <w 
+    src="6" lemma="strong:G3956" morph="robinson:A-GSN">semua</w> 
+    <w src="7 8" lemma="strong:G3588 strong:G4128" morph="robinson:T-GSN robinson:N-GSN">orang banyak</w>: <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="10" lemma="strong:G1586" morph="robinson:V-AMI-3P">mereka memilih</w> <w 
+    src="11" lemma="strong:G4736" morph="robinson:N-ASM">Stefanus</w>, <w 
+    src="12" lemma="strong:G435" morph="robinson:N-ASM">seorang</w> <w 
+    src="13" lemma="strong:G4134" morph="robinson:A-ASM">yang penuh</w> <w 
+    src="14" lemma="strong:G4102" morph="robinson:N-GSF">iman</w> <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="16" lemma="strong:G4151" morph="robinson:N-GSN">roh</w> <w 
+    src="17" lemma="strong:G40" morph="robinson:A-GSN">kudus</w>, <w 
+    src="18" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="19" lemma="strong:G5376" morph="robinson:N-ASM">filipus</w>, <w 
+    src="20" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="21" lemma="strong:G4402" morph="robinson:N-ASM">prokhorus</w>, <w 
+    src="22" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="23" lemma="strong:G3527" morph="robinson:N-ASM">nikanor</w>, <w 
+    src="24" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="25" lemma="strong:G5096" morph="robinson:N-ASM">timon</w>, <w 
+    src="26" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="27" lemma="strong:G3937" morph="robinson:N-ASM">parmenas</w>, <w 
+    src="28" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="29" lemma="strong:G3532" morph="robinson:N-ASM">nikolaus</w> <w 
+    src="30" lemma="strong:G4339" morph="robinson:N-ASM">seorang proselit</w> <w 
+    src="31" lemma="strong:G491" morph="robinson:N-ASM">dari antiokhia</w>:<verse eID="Acts.6.5"/>
+<verse osisID="Acts.6.6" sID="Acts.6.6"/><w 
+    src="1" lemma="strong:G3739" morph="robinson:R-APM">Yang</w> <w 
+    src="2" lemma="strong:G2476" morph="robinson:V-2AAI-3P">mereka bawa</w> <w 
+    src="3" lemma="strong:G1799" morph="robinson:ADV">kehadapan</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G652" morph="robinson:T-GPM robinson:N-GPM">rasul-rasul</w>: <w 
+    src="6" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="7" lemma="strong:G4336" morph="robinson:V-ADP-NPM">mereka berdoa</w> dan <w 
+    src="8" lemma="strong:G2007" morph="robinson:V-AAI-3P">meletakkan</w> <w 
+    src="10 11" lemma="strong:G3588 strong:G5495" morph="robinson:T-APF robinson:N-APF">tangan</w> <w 
+    src="9" lemma="strong:G846" morph="robinson:P-DPM">di atas mereka</w>.<verse eID="Acts.6.6"/>
 <chapter eID="Acts.6"/>
 </div></osisText></osis>
