@@ -3534,5 +3534,54 @@
     src="24" lemma="strong:G5210" morph="robinson:P-2NP">kamu</w> <w 
     src="25" lemma="strong:G3568" morph="robinson:ADV">sekarang</w> <w 
     src="26" lemma="strong:G2730" morph="robinson:V-PAI-2P">tinggal</w>.<verse eID="Acts.7.4"/>
+<verse osisID="Acts.7.5" sID="Acts.7.5"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G3756" morph="robinson:PRT-N">ia tidak</w> <w 
+    src="3" lemma="strong:G1325" morph="robinson:V-AAI-3S">memberikan</w> <w 
+    src="4" lemma="strong:G846" morph="robinson:P-DSM">kepadanya</w>  <w 
+    src="5" lemma="strong:G2817" morph="robinson:N-ASF">warisan</w> <w 
+    src="6" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
+    src="7" lemma="strong:G846" morph="robinson:P-DSF">di sana</w>, <w 
+    src="8" lemma="strong:G3761" morph="robinson:ADV">bahkan</w> <w 
+    src="9" lemma="strong:G968" morph="robinson:N-ASN">setapak</w> <w 
+    src="10" lemma="strong:G4228" morph="robinson:N-GSM">kaki</w> <transChange 
+    type="added">pun tidak</transChange>: <w 
+    src="11" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="12" lemma="strong:G1861" morph="robinson:V-ADI-3S">ia berjanji</w> <w 
+    src="13" lemma="strong:G846" morph="robinson:P-DSM">kepadanya</w> <w 
+    src="14" lemma="strong:G1325" morph="robinson:V-2AAN">akan memberikan</w> <w 
+    src="15" lemma="strong:G1519" morph="robinson:PREP">sebagai</w> <w 
+    src="16" lemma="strong:G2697" morph="robinson:N-ASF">milik</w> <w 
+    src="17" lemma="strong:G846" morph="robinson:P-ASF">nya</w>, <w 
+    src="18" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="19 20" lemma="strong:G3588 strong:G4690" morph="robinson:T-DSN robinson:N-DSN">keturunan</w><w 
+    src="21" lemma="strong:G846" morph="robinson:P-GSM">nya</w> <w 
+    src="22" lemma="strong:G3326" morph="robinson:PREP">sesudah</w> <w 
+    src="23" lemma="strong:G846" morph="robinson:P-ASM">nya</w>, <transChange 
+    type="added">meskipun waktu itu</transChange> <w 
+    src="26" lemma="strong:G846" morph="robinson:P-DSM">ia</w> <w 
+    src="24" lemma="strong:G3756" morph="robinson:PRT-N">belum</w> <w 
+    src="25" lemma="strong:G5607" morph="robinson:V-PXP-GSN">mempunyai</w>  <w 
+    src="27" lemma="strong:G5043" morph="robinson:N-GSN">anak</w>.<verse eID="Acts.7.5"/>
+<verse osisID="Acts.7.6" sID="Acts.7.6"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G2316" morph="robinson:T-NSM robinson:N-NSM">allah</w> <w 
+    src="1" lemma="strong:G2980" morph="robinson:V-AAI-3S">berfirman</w> <w 
+    src="3" lemma="strong:G3779" morph="robinson:ADV">demikian</w>, <w 
+    src="6" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G4690" morph="robinson:T-NSN robinson:N-NSN">keturunan</w><w 
+    src="10" lemma="strong:G846" morph="robinson:P-GSM">nya</w> <w 
+    src="7" lemma="strong:G2071" morph="robinson:V-FXI-3S">akan menjadi</w> <w 
+    src="11" lemma="strong:G3941" morph="robinson:A-NSN">pendatang</w> <w 
+    src="12" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
+    src="13" lemma="strong:G1093" morph="robinson:N-DSF">tanah</w> <w 
+    src="14" lemma="strong:G245" morph="robinson:A-DSF">asing</w>; <w 
+    src="15" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="16" lemma="strong:G1402" morph="robinson:V-FAI-3P">mereka akan memperbudak</w><w 
+    src="17" lemma="strong:G846" morph="robinson:P-ASN">nya</w>, <w 
+    src="18" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="19" lemma="strong:G2559" morph="robinson:V-FAI-3P">menindasnya</w> <w 
+    src="21" lemma="strong:G5071" morph="robinson:A-APN">empat ratus</w> <w 
+    src="20" lemma="strong:G2094" morph="robinson:N-APN">tahun</w>.<verse eID="Acts.7.6"/>
 <chapter eID="Acts.7"/>
 </div></osisText></osis>
