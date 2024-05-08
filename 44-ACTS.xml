@@ -6313,7 +6313,7 @@
     src="6" lemma="strong:G4862" morph="robinson:PREP">bersama dengan</w> <w 
     src="7" lemma="strong:G846" morph="robinson:P-DPM">mereka</w>, <w 
     src="8" lemma="strong:G3367" morph="robinson:A-ASN">jangan</w> <w 
-    src="9" lemma="strong:G1252" morph="robinson:V-PMP-NSM">ragu</w>: <w 
+    src="9" lemma="strong:G1252" morph="robinson:V-PMP-NSM">membedakan</w>: <w 
     src="10" lemma="strong:G1360" morph="robinson:CONJ">sebab</w> <w 
     src="11" lemma="strong:G1473" morph="robinson:P-1NS">aku</w> <w 
     src="12" lemma="strong:G649" morph="robinson:V-RAI-1S">yang telah mengutus</w> <w 
@@ -6827,4 +6827,83 @@
     src="13" lemma="strong:G1961" morph="robinson:V-AAN">untuk tinggal</w> <w 
     src="15" lemma="strong:G5100" morph="robinson:X-APF">selama beberapa</w> <w 
     src="14" lemma="strong:G2250" morph="robinson:N-APF">hari</w>.<verse eID="Acts.10.48"/>
+<chapter eID="Acts.10"/>
+<chapter sID="Acts.11" osisID="Acts.11" chapterTitle="PASAL 11."/>
+<title type="chapter">PASAL 11.</title>
+<verse osisID="Acts.11.1" sID="Acts.11.1"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G652" morph="robinson:T-NPM robinson:N-NPM">rasul-rasul</w> <w 
+    src="5" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G80" morph="robinson:T-NPM robinson:N-NPM">saudara-saudara</w> <w 
+    src="8" lemma="strong:G3588" morph="robinson:T-NPM">yang</w> <w 
+    src="9" lemma="strong:G5607" morph="robinson:V-PXP-NPM">berada</w> <w 
+    src="10" lemma="strong:G2596" morph="robinson:PREP">di</w> <w 
+    src="11 12" lemma="strong:G3588 strong:G2449" morph="robinson:T-ASF robinson:N-ASF">yudea</w> <w 
+    src="1" lemma="strong:G191" morph="robinson:V-AAI-3P">mendengar</w> <w 
+    src="13" lemma="strong:G3754" morph="robinson:CONJ">bahwa</w> <w 
+    src="15 16" lemma="strong:G3588 strong:G1484" morph="robinson:T-NPN robinson:N-NPN">bangsa-bangsa lain</w> <w 
+    src="14" lemma="strong:G2532" morph="robinson:CONJ">juga</w> <w 
+    src="17" lemma="strong:G1209" morph="robinson:V-ADI-3P">telah menerima</w> <w 
+    src="18 19" lemma="strong:G3588 strong:G3056" morph="robinson:T-ASM robinson:N-ASM">firman</w> <w 
+    src="20 21" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">allah</w>.<verse eID="Acts.11.1"/>
+<verse osisID="Acts.11.2" sID="Acts.11.2"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Dan</w> <w 
+    src="2" lemma="strong:G3753" morph="robinson:ADV">ketika</w> <w 
+    src="4" lemma="strong:G4074" morph="robinson:N-NSM">petrus</w> <w 
+    src="3" lemma="strong:G305" morph="robinson:V-2AAI-3S">naik</w> <w 
+    src="5" lemma="strong:G1519" morph="robinson:PREP">ke</w> <w 
+    src="6" lemma="strong:G2414" morph="robinson:N-ASF">yerusalem</w>, <w 
+    src="10" lemma="strong:G3588" morph="robinson:T-NPM">mereka yang</w> <w 
+    src="11" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="12" lemma="strong:G4061" morph="robinson:N-GSF">golongan bersunat</w> <w 
+    src="7" lemma="strong:G1252" morph="robinson:V-IMI-3P">bertentangan</w> <w 
+    src="8" lemma="strong:G4314" morph="robinson:PREP">dengan</w><w 
+    src="9" lemma="strong:G846" morph="robinson:P-ASM">nya</w>,<verse eID="Acts.11.2"/>
+<verse osisID="Acts.11.3" sID="Acts.11.3"/><w 
+    src="1" lemma="strong:G3004" morph="robinson:V-PAP-NPM">berkata</w>, <w 
+    src="2" lemma="strong:G3754" morph="robinson:CONJ"/> <w 
+    src="6" lemma="strong:G2192" morph="robinson:V-PAP-APM"/> <w 
+    src="7" lemma="strong:G1525" morph="robinson:V-2AAI-2S">engkau telah pergi</w> <w 
+    src="3" lemma="strong:G4314" morph="robinson:PREP">kepada</w> <w 
+    src="4" lemma="strong:G435" morph="robinson:N-APM">orang-orang</w> <w 
+    src="5" lemma="strong:G203" morph="robinson:N-ASF">yang tidak bersunat</w>, <w 
+    src="8" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="9" lemma="strong:G4906" morph="robinson:V-2AAI-2S">makan bersama</w> <w 
+    src="10" lemma="strong:G846" morph="robinson:P-DPM">dengan mereka</w>.<verse eID="Acts.11.3"/>
+<verse osisID="Acts.11.4" sID="Acts.11.4"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="3 4" lemma="strong:G3588 strong:G4074" morph="robinson:T-NSM robinson:N-NSM">petrus</w> <w 
+    src="1" lemma="strong:G756" morph="robinson:V-AMP-NSM">mulai</w> <w 
+    src="5" lemma="strong:G1620" morph="robinson:V-IMI-3S">menjelaskan</w> <w 
+    src="6" lemma="strong:G846" morph="robinson:P-DPM">kepada mereka</w> <w 
+    src="7" lemma="strong:G2517" morph="robinson:ADV">dengan berurutan</w> , <w 
+    src="8" lemma="strong:G3004" morph="robinson:V-PAP-NSM">berkata</w>,<verse eID="Acts.11.4"/>
+<verse osisID="Acts.11.5" sID="Acts.11.5"/><w 
+    src="1" lemma="strong:G1473" morph="robinson:P-1NS">Aku</w> <w 
+    src="2" lemma="strong:G2252" morph="robinson:V-IXI-1S">sedang berada</w> <w 
+    src="3" lemma="strong:G1722" morph="robinson:PREP">di</w> <w 
+    src="4" lemma="strong:G4172" morph="robinson:N-DSF">kota</w> <w 
+    src="5" lemma="strong:G2445" morph="robinson:N-DSF">yope</w> <w 
+    src="6" lemma="strong:G4336" morph="robinson:V-PNP-NSM">berdoa</w>: <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="9" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="10" lemma="strong:G1611" morph="robinson:N-DSF">keadaan takjub</w> <w 
+    src="8" lemma="strong:G1492" morph="robinson:V-2AAI-1S">aku melihat</w> <w 
+    src="11" lemma="strong:G3705" morph="robinson:N-ASN">suatu penglihatan</w>, <w 
+    src="14" lemma="strong:G5100" morph="robinson:X-NSN">sebuah</w> <w 
+    src="13" lemma="strong:G4632" morph="robinson:N-NSN">bejana</w> <w 
+    src="12" lemma="strong:G2597" morph="robinson:V-PAP-ASN">yang turun</w>, <w 
+    src="15" lemma="strong:G5613" morph="robinson:ADV">seperti</w> <w 
+    src="16" lemma="strong:G3607" morph="robinson:N-ASF">kain</w> <w 
+    src="17" lemma="strong:G3173" morph="robinson:A-ASF">besar</w> <w 
+    src="18" lemma="strong:G5064" morph="robinson:A-DPF">dengan ke empat</w> <w 
+    src="19" lemma="strong:G746" morph="robinson:N-DPF">penjurunya</w>, <w 
+    src="20" lemma="strong:G2524" morph="robinson:V-PPP-ASF">diturunkan</w> <w 
+    src="21" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="22 23" lemma="strong:G3588 strong:G3772" morph="robinson:T-GSM robinson:N-GSM">langit</w>; <w 
+    src="24" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="25" lemma="strong:G2064" morph="robinson:V-2AAI-3S">datang</w> <w 
+    src="26" lemma="strong:G891" morph="robinson:PREP">sampai kepada</w><w 
+    src="27" lemma="strong:G1700" morph="robinson:P-1GS">ku</w>:<verse eID="Acts.11.5"/>
+<chapter eID="Acts.11"/>
 </div></osisText></osis>
