@@ -7779,5 +7779,30 @@
     src="18" lemma="strong:G1634" morph="robinson:V-AAI-3S">ia menghembuskan nafas</w> <w 
     src="16" lemma="strong:G1096" morph="robinson:V-2ADP-NSM">menjadi</w> <w 
     src="17" lemma="strong:G4662" morph="robinson:A-NSM">makanan cacing-cacing</w>.<verse eID="Acts.12.23"/>
+<verse osisID="Acts.12.24" sID="Acts.12.24"/><milestone type="x-p" marker="¶"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G3588" morph="robinson:T-NSM"/> <w 
+    src="3" lemma="strong:G3056" morph="robinson:N-NSM">firman</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G2316" morph="robinson:T-GSM robinson:N-GSM">allah</w> <w 
+    src="6" lemma="strong:G837" morph="robinson:V-IAI-3S">terus bertumbuh</w> <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="8" lemma="strong:G4129" morph="robinson:V-IPI-3S">dilipat gandakan</w>.<verse eID="Acts.12.24"/>
+<verse osisID="Acts.12.25" sID="Acts.12.25"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G921" morph="robinson:N-NSM">barnabas</w> <w 
+    src="3" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="4" lemma="strong:G4569" morph="robinson:N-NSM">saulus</w> <w 
+    src="5" lemma="strong:G5290" morph="robinson:V-AAI-3P">kembali</w> <w 
+    src="6" lemma="strong:G1537" morph="robinson:PREP">dari</w> <w 
+    src="7" lemma="strong:G2419" morph="robinson:N-PRI">yerusalem</w>, <w 
+    src="8" lemma="strong:G4137" morph="robinson:V-AAP-NPM">setelah mereka menyelesaikan</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G1248" morph="robinson:T-ASF robinson:N-ASF">pelayanan</w> <transChange 
+    type="added">mereka</transChange>, <w 
+    src="12" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="11" lemma="strong:G4838" morph="robinson:V-2AAP-NPM">membawa serta</w> <w 
+    src="13" lemma="strong:G2491" morph="robinson:N-ASM">yohanes</w>, <w 
+    src="14" lemma="strong:G3588" morph="robinson:T-ASM">yang</w> <w 
+    src="15" lemma="strong:G1941" morph="robinson:V-APP-ASM">disebut</w> <w 
+    src="16" lemma="strong:G3138" morph="robinson:N-ASM">markus</w>.<verse eID="Acts.12.25"/>
 <chapter eID="Acts.12"/>
 </div></osisText></osis>
