@@ -8027,5 +8027,25 @@
     src="9" lemma="strong:G1909" morph="robinson:PREP">atas</w> <w 
     src="10 11" lemma="strong:G3588 strong:G1322" morph="robinson:T-DSF robinson:N-DSF">ajaran</w> <w 
     src="12 13" lemma="strong:G3588 strong:G2962" morph="robinson:T-GSM robinson:N-GSM">tuhan</w>.<verse eID="Acts.13.12"/>
+<verse osisID="Acts.13.13" sID="Acts.13.13"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan ketika</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G3972" morph="robinson:T-ASM robinson:N-ASM">paulus</w> <w 
+    src="6" lemma="strong:G3588" morph="robinson:T-NPM"/> <w 
+    src="7" lemma="strong:G4012" morph="robinson:PREP">dan rekan-rekannya</w> <w 
+    src="1" lemma="strong:G321" morph="robinson:V-APP-NPM">berlayar</w> <w 
+    src="3" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G3974" morph="robinson:T-GSF robinson:N-GSF">pafos</w>, <w 
+    src="10" lemma="strong:G2064" morph="robinson:V-2AAI-3P">mereka tiba</w> <w 
+    src="11" lemma="strong:G1519" morph="robinson:PREP">ke</w> <w 
+    src="12" lemma="strong:G4011" morph="robinson:N-ASF">perga</w> <w 
+    src="13 14" lemma="strong:G3588 strong:G3828" morph="robinson:T-GSF robinson:N-GSF">di pamfilia</w>: <w 
+    src="16" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="15" lemma="strong:G2491" morph="robinson:N-NSM">yohanes</w> <w 
+    src="17" lemma="strong:G672" morph="robinson:V-AAP-NSM">berpisah</w> <w 
+    src="18" lemma="strong:G575" morph="robinson:PREP">dari</w> <w 
+    src="19" lemma="strong:G846" morph="robinson:P-GPM">mereka</w> <w 
+    src="20" lemma="strong:G5290" morph="robinson:V-AAI-3S">kembali</w> <w 
+    src="21" lemma="strong:G1519" morph="robinson:PREP">ke</w> <w 
+    src="22" lemma="strong:G2414" morph="robinson:N-ASF">yerusalem</w>.<verse eID="Acts.13.13"/>
 <chapter eID="Acts.13"/>
 </div></osisText></osis>
