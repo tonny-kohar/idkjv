@@ -11977,5 +11977,48 @@
     src="24 25" lemma="strong:G3588 strong:G2962" morph="robinson:T-GSM robinson:N-GSM">tuhan</w> <w 
     src="26" lemma="strong:G2424" morph="robinson:N-GSM">yesus</w> <w 
     src="21" lemma="strong:G3170" morph="robinson:V-IPI-3S">semakin dibesarkan</w>.<verse eID="Acts.19.17"/>
+<verse osisID="Acts.19.18" sID="Acts.19.18"/><w 
+    src="2" lemma="strong:G5037" morph="robinson:PRT">Dan</w> <w 
+    src="1" lemma="strong:G4183" morph="robinson:A-NPM">banyak</w> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GPM">dari mereka yang</w> <w 
+    src="4" lemma="strong:G4100" morph="robinson:V-RAP-GPM">menjadi percaya</w> <w 
+    src="5" lemma="strong:G2064" morph="robinson:V-INI-3P">datang</w>, <w 
+    src="7" lemma="strong:G2532" morph="robinson:CONJ">lalu</w> <w 
+    src="6" lemma="strong:G1843" morph="robinson:V-PMP-NPM">mengaku</w>, <w 
+    src="8" lemma="strong:G312" morph="robinson:V-PAP-NPM">memberitahukan</w> <w 
+    src="9 10" lemma="strong:G3588 strong:G4234" morph="robinson:T-APF robinson:N-APF">perbuatan-perbuatan</w> <w 
+    src="11" lemma="strong:G846" morph="robinson:P-GPM">mereka</w>.<verse eID="Acts.19.18"/>
+<verse osisID="Acts.19.19" sID="Acts.19.19"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Dan</w> <w 
+    src="1" lemma="strong:G2425" morph="robinson:A-NPM">Banyak</w> <w 
+    src="3" lemma="strong:G3588" morph="robinson:T-GPM">dari mereka yang</w> <w 
+    src="6" lemma="strong:G4238" morph="robinson:V-AAP-GPM">melakukan praktik</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G4021" morph="robinson:T-APN robinson:A-APN">sihir</w> <w 
+    src="7" lemma="strong:G4851" morph="robinson:V-2AAP-NPM">membawa</w> <w 
+    src="8 9" lemma="strong:G3588 strong:G976" morph="robinson:T-APF robinson:N-APF">kitab-kitab</w> mereka, dan <w 
+    src="10" lemma="strong:G2618" morph="robinson:V-IAI-3P">membakarnya</w> <w 
+    src="11" lemma="strong:G1799" morph="robinson:ADV">di hadapan</w> <w 
+    src="12" lemma="strong:G3956" morph="robinson:A-GPM">semua</w> <transChange 
+    type="added">orang</transChange>: <w 
+    src="13" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="14" lemma="strong:G4860" morph="robinson:V-AAI-3P">mereka menghitung</w> <w 
+    src="15 16" lemma="strong:G3588 strong:G5092" morph="robinson:T-APF robinson:N-APF">harga</w><w 
+    src="17" lemma="strong:G846" morph="robinson:P-GPF">nya</w>, <w 
+    src="18" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="19" lemma="strong:G2147" morph="robinson:V-2AAI-3P">mendapati</w><transChange 
+    type="added">nya</transChange> <w 
+    src="22" lemma="strong:G4002" morph="robinson:A-NUI">lima puluh</w> <w 
+    src="21" lemma="strong:G3461" morph="robinson:A-APM">ribu</w> <transChange 
+    type="added">keping</transChange> <w 
+    src="20" lemma="strong:G694" morph="robinson:N-GSN">perak</w>.<verse eID="Acts.19.19"/>
+<verse osisID="Acts.19.20" sID="Acts.19.20"/><w 
+    src="1" lemma="strong:G3779" morph="robinson:ADV">Dengan cara ini</w> <w 
+    src="2" lemma="strong:G2596" morph="robinson:PREP"/> <w 
+    src="3" lemma="strong:G2904" morph="robinson:N-ASN">makin kuatlah</w> <w 
+    src="4 5" lemma="strong:G3588 strong:G3056" morph="robinson:T-NSM robinson:N-NSM">firman</w> <w 
+    src="6 7" lemma="strong:G3588 strong:G2962" morph="robinson:T-GSM robinson:N-GSM">tuhan</w> <w 
+    src="8" lemma="strong:G837" morph="robinson:V-IAI-3S">bertumbuh</w> <w 
+    src="9" lemma="strong:G2532" morph="robinson:CONJ">dan</w> <w 
+    src="10" lemma="strong:G2480" morph="robinson:V-IAI-3S">berkuasa</w>.<verse eID="Acts.19.20"/>
 <chapter eID="Acts.19"/>
 </div></osisText></osis>
