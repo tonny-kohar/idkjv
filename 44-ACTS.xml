@@ -12365,5 +12365,43 @@
     src="17" lemma="strong:G446" morph="robinson:N-NPM">prokonsul</w>: <w 
     src="19" lemma="strong:G1458" morph="robinson:V-PAM-3P">biarlah mereka mengajukan tuntutan</w> <w 
     src="20" lemma="strong:G240" morph="robinson:C-DPM">satu sama lain</w>.<verse eID="Acts.19.38"/>
+<verse osisID="Acts.19.39" sID="Acts.19.39"/><w 
+    src="2" lemma="strong:G1161" morph="robinson:CONJ">Namun</w> <w 
+    src="1" lemma="strong:G1487" morph="robinson:COND">jika</w> <w 
+    src="6" lemma="strong:G1934" morph="robinson:V-PAI-2P">kamu mencari</w> <w 
+    src="3" lemma="strong:G5100" morph="robinson:X-ASN">sesuatu</w> <w 
+    src="4" lemma="strong:G4012" morph="robinson:PREP">mengenai</w> <w 
+    src="5" lemma="strong:G2087" morph="robinson:A-GPN">hal-hal yang lain</w>, <w 
+    src="11" lemma="strong:G1956" morph="robinson:V-FPI-3S">itu akan diselesaikan</w> <w 
+    src="7" lemma="strong:G1722" morph="robinson:PREP">dalam</w> <w 
+    src="10" lemma="strong:G1577" morph="robinson:N-DSF">sidang</w> <transChange 
+    type="added">rakyat</transChange> <w 
+    src="8" lemma="strong:G3588" morph="robinson:T-DSF">yang</w> <w 
+    src="9" lemma="strong:G1772" morph="robinson:A-DSF">sah</w>.<verse eID="Acts.19.39"/>
+<verse osisID="Acts.19.40" sID="Acts.19.40"/><w 
+    src="2" lemma="strong:G1063" morph="robinson:CONJ">Sebab</w> <w 
+    src="3" lemma="strong:G2793" morph="robinson:V-PAI-1P">kita berada dalam bahaya</w> <w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ"/><w 
+    src="4" lemma="strong:G1458" morph="robinson:V-PPN">dituduh</w> <w 
+    src="6" lemma="strong:G4012" morph="robinson:PREP">atas</w> <w 
+    src="5" lemma="strong:G4714" morph="robinson:N-GSF">kerusuhan</w> <w 
+    src="7" lemma="strong:G3588" morph="robinson:T-GSF"/> <w 
+    src="8" lemma="strong:G4594" morph="robinson:ADV">pada hari ini</w>, <w 
+    src="10" lemma="strong:G159" morph="robinson:A-GSN">karena</w> <w 
+    src="9" lemma="strong:G3367" morph="robinson:A-GSN">tidak</w> <w 
+    src="11" lemma="strong:G5225" morph="robinson:V-PAP-GSN">ada</w> <w 
+    src="13" lemma="strong:G3739" morph="robinson:R-GSN">yang</w> <w 
+    src="14" lemma="strong:G1410" morph="robinson:V-FDI-1P">dapat</w> <w 
+    src="15" lemma="strong:G591" morph="robinson:V-2AAN">kita berikan</w> <w 
+    src="16" lemma="strong:G3056" morph="robinson:N-ASM">penjelasan</w> <w 
+    src="12" lemma="strong:G4012" morph="robinson:PREP">atas</w> <w 
+    src="17 18" lemma="strong:G3588 strong:G4963" morph="robinson:T-GSF robinson:N-GSF">pertemuan yang kacau</w> <w 
+    src="19" lemma="strong:G3778" morph="robinson:D-GSF">ini</w>.<verse eID="Acts.19.40"/>
+<verse osisID="Acts.19.41" sID="Acts.19.41"/><w 
+    src="1" lemma="strong:G2532" morph="robinson:CONJ">Lalu</w> <w 
+    src="3" lemma="strong:G2036" morph="robinson:V-2AAP-NSM">setelah ia berkata</w> <w 
+    src="2" lemma="strong:G5023" morph="robinson:D-APN">demikian</w>, <w 
+    src="4" lemma="strong:G630" morph="robinson:V-AAI-3S">ia membubarkan</w> <w 
+    src="5 6" lemma="strong:G3588 strong:G1577" morph="robinson:T-ASF robinson:N-ASF">pertemuan itu</w>.<verse eID="Acts.19.41"/>
 <chapter eID="Acts.19"/>
 </div></osisText></osis>
